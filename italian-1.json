@@ -1,0 +1,798 @@
+[
+  [
+    197,
+    "Riserva e limiti tecnici."
+  ],
+  [
+    198,
+    "IMPIANTI / VINCOLI"
+  ],
+  [
+    199,
+    "Fonti di dati"
+  ],
+  [
+    200,
+    "MISURE"
+  ],
+  [
+    201,
+    "Riserva e limiti tecnici"
+  ],
+  [
+    202,
+    "CONTESTO PER LA VERIFICA"
+  ],
+  [
+    203,
+    "Per la direzione"
+  ],
+  [
+    204,
+    "Capire i costi."
+  ],
+  [
+    205,
+    "Valutare i risultati."
+  ],
+  [
+    206,
+    "Struttura dei costi energetici."
+  ],
+  [
+    207,
+    "Confronto tra previsto e reale."
+  ],
+  [
+    208,
+    "PREVISTO / REALE"
+  ],
+  [
+    209,
+    "RISULTATI DEL PERIODO"
+  ],
+  [
+    210,
+    "Bilancio, vincoli tecnici e risultati sono condivisi tra i membri del team."
+  ],
+  [
+    211,
+    "Illustrazione delle funzionalità. I dati disponibili dipendono dall’integrazione del sito."
+  ],
+  [
+    212,
+    "ARCHITETTURA DELLA SOLUZIONE"
+  ],
+  [
+    213,
+    "Come i dati diventano"
+  ],
+  [
+    214,
+    "decisioni per l’azienda."
+  ],
+  [
+    215,
+    "Tre parti di un unico sistema: fonti di dati, logica operativa concordata e risultati chiari."
+  ],
+  [
+    216,
+    "IN INGRESSO"
+  ],
+  [
+    217,
+    "Il contesto del tuo sito"
+  ],
+  [
+    218,
+    "Impianti energetici"
+  ],
+  [
+    219,
+    "Fotovoltaico, inverter, BMS e contatori."
+  ],
+  [
+    220,
+    "Condizioni operative"
+  ],
+  [
+    221,
+    "Domanda, riserva e limiti tecnici."
+  ],
+  [
+    222,
+    "Dati esterni"
+  ],
+  [
+    223,
+    "Tariffa, prezzi di mercato e previsione di generazione."
+  ],
+  [
+    224,
+    "Fonti di dati concordate"
+  ],
+  [
+    225,
+    "NELLA PIATTAFORMA"
+  ],
+  [
+    226,
+    "Misure"
+  ],
+  [
+    227,
+    "Unificare i dati in un bilancio energetico"
+  ],
+  [
+    228,
+    "Previsione"
+  ],
+  [
+    229,
+    "Considerare le ore successive"
+  ],
+  [
+    230,
+    "Pianificazione"
+  ],
+  [
+    231,
+    "Concordare uno scenario operativo"
+  ],
+  [
+    232,
+    "Controllo"
+  ],
+  [
+    233,
+    "Confrontare l’esecuzione con il piano"
+  ],
+  [
+    234,
+    "I limiti tecnici e la riserva hanno la priorità."
+  ],
+  [
+    235,
+    "IN USCITA"
+  ],
+  [
+    236,
+    "Risultati per il team"
+  ],
+  [
+    237,
+    "Piano concordato"
+  ],
+  [
+    238,
+    "Azioni chiare per energy manager e operatori."
+  ],
+  [
+    239,
+    "Controllo degli asset"
+  ],
+  [
+    240,
+    "Comandi disponibili entro la modalità selezionata."
+  ],
+  [
+    241,
+    "Report dei risultati"
+  ],
+  [
+    242,
+    "Energia, esecuzione e analisi economica del periodo."
+  ],
+  [
+    243,
+    "Dalle misure alle azioni e alla valutazione"
+  ],
+  [
+    244,
+    "PRIMA LA VERIFICA"
+  ],
+  [
+    245,
+    "Verifichiamo l’accesso ai dati e ai comandi durante l’audit tecnico. Algoritmo e livello di automazione vengono concordati prima dell’avvio."
+  ],
+  [
+    246,
+    "Come implementiamo la soluzione"
+  ],
+  [
+    247,
+    "02 / CASI D’USO"
+  ],
+  [
+    248,
+    "I tuoi asset."
+  ],
+  [
+    249,
+    "Un obiettivo concreto."
+  ],
+  [
+    250,
+    "Seleziona la configurazione del sito. Scopri l’obiettivo, la logica della soluzione e cosa verificare all’inizio."
+  ],
+  [
+    251,
+    "Scenario del sito"
+  ],
+  [
+    252,
+    "GENERAZIONE SOLARE"
+  ],
+  [
+    253,
+    "Azienda con fotovoltaico"
+  ],
+  [
+    254,
+    "ACCUMULO DI ENERGIA"
+  ],
+  [
+    255,
+    "Sito con BESS"
+  ],
+  [
+    256,
+    "MONITORAGGIO UNIFICATO"
+  ],
+  [
+    257,
+    "Più punti di misura"
+  ],
+  [
+    258,
+    "Analizziamo il mio scenario"
+  ],
+  [
+    259,
+    "Sito"
+  ],
+  [
+    260,
+    "L’OBIETTIVO"
+  ],
+  [
+    261,
+    "LOGICA DELLA SOLUZIONE"
+  ],
+  [
+    262,
+    "COSA VERIFICHIAMO ALL’INIZIO"
+  ],
+  [
+    263,
+    "03 / LOGICA DI CONTROLLO"
+  ],
+  [
+    264,
+    "Ogni ora richiede"
+  ],
+  [
+    265,
+    "la sua decisione."
+  ],
+  [
+    266,
+    "Scopri come cambia lo scenario operativo durante la giornata. È un esempio didattico, non prezzi di mercato attuali né dati reali di clienti."
+  ],
+  [
+    267,
+    "ESEMPIO DI PIANO GIORNALIERO"
+  ],
+  [
+    268,
+    "Prezzo e funzionamento dell’accumulo"
+  ],
+  [
+    269,
+    "Dimostrazione"
+  ],
+  [
+    270,
+    "Prezzo, ₴/kWh"
+  ],
+  [
+    271,
+    "Carica"
+  ],
+  [
+    272,
+    "Scarica"
+  ],
+  [
+    273,
+    "Esempio di prezzi orari. Seleziona un’ora"
+  ],
+  [
+    274,
+    "Ora dello scenario"
+  ],
+  [
+    275,
+    "Carica dalla rete"
+  ],
+  [
+    276,
+    "Generazione propria"
+  ],
+  [
+    277,
+    "Energia dal BESS"
+  ],
+  [
+    278,
+    "Lo scenario giornaliero parte automaticamente quando raggiungi il grafico."
+  ],
+  [
+    279,
+    "24 ore in 24 secondi. Puoi selezionare un’ora manualmente."
+  ],
+  [
+    280,
+    "DECISIONE ALLE"
+  ],
+  [
+    281,
+    "Prezzo dell’esempio"
+  ],
+  [
+    282,
+    "La riserva è un vincolo separato"
+  ],
+  [
+    283,
+    "L’energia riservata all’autonomia non viene usata per ottimizzare senza accordo."
+  ],
+  [
+    284,
+    "04 / IMPLEMENTAZIONE"
+  ],
+  [
+    285,
+    "Dal tuo sito"
+  ],
+  [
+    286,
+    "a un sistema coordinato."
+  ],
+  [
+    287,
+    "Quattro fasi. Ognuna produce un risultato chiaro e una decisione sul passo successivo."
+  ],
+  [
+    288,
+    "Seleziona una fase per vedere i dettagli"
+  ],
+  [
+    289,
+    "Fasi di implementazione"
+  ],
+  [
+    290,
+    "VALUTAZIONE"
+  ],
+  [
+    291,
+    "Raccogliamo il contesto"
+  ],
+  [
+    292,
+    "MODELLAZIONE"
+  ],
+  [
+    293,
+    "Calcoliamo gli scenari"
+  ],
+  [
+    294,
+    "INTEGRAZIONE"
+  ],
+  [
+    295,
+    "Verifichiamo il piano"
+  ],
+  [
+    296,
+    "ESERCIZIO"
+  ],
+  [
+    297,
+    "Controlliamo i risultati"
+  ],
+  [
+    298,
+    "FASE 01 / 04"
+  ],
+  [
+    299,
+    "Partiamo da ciò che funziona già nel tuo sito."
+  ],
+  [
+    300,
+    "Impianti e schema di alimentazione"
+  ],
+  [
+    301,
+    "Fonti di dati e interfacce"
+  ],
+  [
+    302,
+    "Tariffa e storico dei consumi"
+  ],
+  [
+    303,
+    "INSIEME A TE"
+  ],
+  [
+    304,
+    "Concordare i dati di partenza"
+  ],
+  [
+    305,
+    "RISULTATO DELLA FASE"
+  ],
+  [
+    306,
+    "CONTATORI"
+  ],
+  [
+    307,
+    "MAPPA"
+  ],
+  [
+    308,
+    "DEL SITO"
+  ],
+  [
+    309,
+    "Schema di alimentazione"
+  ],
+  [
+    310,
+    "Interfacce disponibili"
+  ],
+  [
+    311,
+    "Vincoli tecnici"
+  ],
+  [
+    312,
+    "Mappa del sito"
+  ],
+  [
+    313,
+    "Elenco dei dati disponibili e dei vincoli tecnici."
+  ],
+  [
+    314,
+    "Struttura illustrativa del risultato, non dati di clienti."
+  ],
+  [
+    315,
+    "FASE 02 / 04"
+  ],
+  [
+    316,
+    "Confrontiamo il funzionamento di riferimento con possibili programmi di carica e scarica."
+  ],
+  [
+    317,
+    "Consideriamo il profilo di domanda"
+  ],
+  [
+    318,
+    "Definiamo riserva e limiti tecnici"
+  ],
+  [
+    319,
+    "Verifichiamo le ipotesi economiche"
+  ],
+  [
+    320,
+    "Scegliere uno scenario da verificare"
+  ],
+  [
+    321,
+    "RIFERIMENTO"
+  ],
+  [
+    322,
+    "SCENARIO"
+  ],
+  [
+    323,
+    "Profilo di domanda"
+  ],
+  [
+    324,
+    "Riserva e limiti"
+  ],
+  [
+    325,
+    "Ipotesi del modello"
+  ],
+  [
+    326,
+    "Modello dello scenario"
+  ],
+  [
+    327,
+    "Stima dell’effetto con ipotesi e limiti di applicazione espliciti."
+  ],
+  [
+    328,
+    "FASE 03 / 04"
+  ],
+  [
+    329,
+    "Colleghiamo le fonti concordate e verifichiamo che il piano sia eseguibile."
+  ],
+  [
+    330,
+    "Verifichiamo la qualità delle misure"
+  ],
+  [
+    331,
+    "Testiamo raccomandazioni e comandi"
+  ],
+  [
+    332,
+    "Concordiamo regole e modalità"
+  ],
+  [
+    333,
+    "Approvare l’avvio"
+  ],
+  [
+    335,
+    "REGOLE"
+  ],
+  [
+    336,
+    "COMANDI"
+  ],
+  [
+    337,
+    "Fonti collegate"
+  ],
+  [
+    338,
+    "Verifica dello scenario"
+  ],
+  [
+    339,
+    "Modalità concordata"
+  ],
+  [
+    340,
+    "Rapporto di verifica"
+  ],
+  [
+    341,
+    "Regole concordate, comandi disponibili e modalità di controllo."
+  ],
+  [
+    342,
+    "FASE 04 / 04"
+  ],
+  [
+    343,
+    "Confrontiamo il piano con i risultati reali e analizziamo le cause degli scostamenti."
+  ],
+  [
+    344,
+    "Analizziamo energia ed esecuzione"
+  ],
+  [
+    345,
+    "Monitoriamo gli scostamenti"
+  ],
+  [
+    346,
+    "Correggiamo le impostazioni concordate"
+  ],
+  [
+    347,
+    "Passare al ciclo successivo"
+  ],
+  [
+    348,
+    "REALE"
+  ],
+  [
+    349,
+    "Confronto del periodo"
+  ],
+  [
+    350,
+    "Cause degli scostamenti"
+  ],
+  [
+    351,
+    "Affinamento delle impostazioni"
+  ],
+  [
+    352,
+    "Report del periodo"
+  ],
+  [
+    353,
+    "Dati energetici e operativi trasparenti."
+  ],
+  [
+    354,
+    "Selezionato: valutazione"
+  ],
+  [
+    355,
+    "Fase successiva"
+  ],
+  [
+    356,
+    "PER LA PRIMA CONVERSAZIONE"
+  ],
+  [
+    357,
+    "Di cosa disponi già?"
+  ],
+  [
+    358,
+    "Seleziona ciò che hai a disposizione. È un riferimento per iniziare, non un elenco di requisiti obbligatori."
+  ],
+  [
+    359,
+    "Elenco degli impianti"
+  ],
+  [
+    360,
+    "Schema di misura"
+  ],
+  [
+    361,
+    "Tariffa o contratto"
+  ],
+  [
+    362,
+    "Storico della domanda"
+  ],
+  [
+    363,
+    "Possiamo iniziare da ciò che hai."
+  ],
+  [
+    364,
+    "Parliamo di come iniziare"
+  ],
+  [
+    365,
+    "RISPOSTE ALLE TUE DOMANDE"
+  ],
+  [
+    366,
+    "I dettagli"
+  ],
+  [
+    367,
+    "contano."
+  ],
+  [
+    368,
+    "Parliamo di ciò che è importante prima di iniziare."
+  ],
+  [
+    369,
+    "PRIMA IL CONTESTO."
+  ],
+  [
+    370,
+    "POI LA SOLUZIONE."
+  ],
+  [
+    371,
+    "Ho un’altra domanda"
+  ],
+  [
+    372,
+    "Illustrazione generata"
+  ],
+  [
+    373,
+    "MENO INCERTEZZE"
+  ],
+  [
+    374,
+    "Le condizioni tecniche e commerciali vengono definite dopo l’analisi del sito specifico."
+  ],
+  [
+    375,
+    "Argomento delle domande"
+  ],
+  [
+    376,
+    "Tutte le domande"
+  ],
+  [
+    377,
+    "Impianti"
+  ],
+  [
+    378,
+    "Controllo"
+  ],
+  [
+    379,
+    "Condizioni"
+  ],
+  [
+    380,
+    "Occorre sostituire gli impianti esistenti?"
+  ],
+  [
+    381,
+    "L’obiettivo è utilizzare l’infrastruttura esistente. L’accesso alle misure e ai comandi dipende però da modelli, firmware e interfacce specifici. Lo verifichiamo prima di concordare l’integrazione; in alcuni casi possono servire un gateway aggiuntivo o strumenti di misura."
+  ],
+  [
+    382,
+    "Possiamo iniziare solo con il monitoraggio energetico?"
+  ],
+  [
+    383,
+    "Sì. Monitoraggio e controllo sono moduli separati. Si può iniziare rendendo visibili consumi e generazione, e aggiungere l’ottimizzazione dopo aver raccolto dati e verificato la sostenibilità economica."
+  ],
+  [
+    384,
+    "Il sistema prevede la vendita di energia alla rete?"
+  ],
+  [
+    385,
+    "La possibilità di vendita dipende dalle condizioni tecniche, dallo schema di connessione, dai contratti e dai requisiti normativi. Durante l’analisi del sito valutiamo separatamente l’autoconsumo e la possibilità di immissione in rete."
+  ],
+  [
+    386,
+    "Come viene gestita la riserva in caso di interruzione della rete?"
+  ],
+  [
+    387,
+    "Il livello minimo di carica e la priorità dell’autonomia sono vincoli separati. Vengono concordati prima dell’avvio, affinché lo scenario economico non consumi la riserva necessaria all’azienda."
+  ],
+  [
+    388,
+    "Cosa succede se si perde la comunicazione?"
+  ],
+  [
+    389,
+    "Lo scenario sicuro in caso di perdita della comunicazione viene definito in fase di progetto, considerando l’automazione locale e le capacità dell’inverter. Deve essere verificato sul sito prima di passare alla modalità automatica."
+  ],
+  [
+    390,
+    "Quanto costa l’implementazione?"
+  ],
+  [
+    391,
+    "Il costo dipende dai moduli, dal numero di punti di misura, dalle interfacce disponibili e dalla complessità del controllo. Dopo l’analisi iniziale prepariamo una proposta con l’ambito di integrazione e le condizioni di utilizzo della piattaforma."
+  ],
+  [
+    392,
+    "Ogni sito ha condizioni specifiche."
+  ],
+  [
+    393,
+    "Chiedici direttamente ↗"
+  ],
+  [
+    394,
+    "IL TUO PROSSIMO PASSO NELL’ENERGIA"
+  ],
+  [
+    395,
+    "La tua energia"
+  ],
+  [
+    396,
+    "può funzionare"
+  ]
+]

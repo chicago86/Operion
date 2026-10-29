@@ -1,0 +1,25 @@
+Boundary data used locally for language selection
+
+Ukraine: geoBoundaries UKR-ADM0-60985579. Source: © OpenStreetMap contributors,
+Wambacher. Open Data Commons Open Database License 1.0 (ODbL).
+https://www.openstreetmap.org/copyright
+https://opendatacommons.org/licenses/odbl/1-0/
+https://www.geoboundaries.org/api/current/gbOpen/UKR/ADM0/
+
+Italy: geoBoundaries ITA-ADM0-42024856. Source: ISTAT, National Institute of
+Statistics, 2023. Creative Commons Attribution 3.0.
+https://creativecommons.org/licenses/by/3.0/
+https://www.istat.it/it/note-legali
+https://www.geoboundaries.org/api/current/gbOpen/ITA/ADM0/
+
+Both were obtained through geoBoundaries, William & Mary geoLab.
+https://www.geoboundaries.org/
+Changes: only national geometry retained; coordinates rounded to 5 decimal
+places; combined in a collection with separate provenance and licenses.
+The adapted, machine-readable geometry is available as geo-countries-v12.json
+in the same directory. No visitor coordinates are stored in that file.
+
+Vatican City and San Marino exclusions: Natural Earth 1:10m Admin 0 Countries,
+public domain. https://www.naturalearthdata.com/about/terms-of-use/
+
+This data is for website language selection, not navigation or a boundary survey.

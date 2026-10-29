@@ -1,0 +1,9 @@
+.git
+.openai
+php
+public
+*.zip
+*.tar.gz
+__pycache__
+.env
+.env.local

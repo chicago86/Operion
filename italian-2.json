@@ -1,0 +1,618 @@
+[
+  [
+    397,
+    "meglio."
+  ],
+  [
+    398,
+    "Hai già fotovoltaico, accumulo e contatori? Scopriamo come unirli in un sistema coordinato e quali scenari verificare nel tuo sito."
+  ],
+  [
+    399,
+    "Definiamo l’obiettivo aziendale"
+  ],
+  [
+    400,
+    "Verifichiamo dati e capacità degli impianti"
+  ],
+  [
+    401,
+    "Individuiamo il passo successivo"
+  ],
+  [
+    402,
+    "PARLIAMONE DIRETTAMENTE"
+  ],
+  [
+    403,
+    "Oppure scrivi a: fusioeng@gmail.com ↗"
+  ],
+  [
+    405,
+    "Sviluppatore di Operion OS"
+  ],
+  [
+    406,
+    "PARTIAMO DAL TUO SITO"
+  ],
+  [
+    407,
+    "Cosa vorresti migliorare?"
+  ],
+  [
+    408,
+    "Descrivi la situazione in poche parole. In questa fase non serve un capitolato tecnico dettagliato."
+  ],
+  [
+    410,
+    "Il tuo nome"
+  ],
+  [
+    411,
+    "Come possiamo chiamarti?"
+  ],
+  [
+    412,
+    "Azienda"
+  ],
+  [
+    413,
+    "Nome dell’azienda"
+  ],
+  [
+    414,
+    "Email o telefono"
+  ],
+  [
+    415,
+    "Il tuo recapito"
+  ],
+  [
+    416,
+    "Esigenza del sito"
+  ],
+  [
+    417,
+    "Per esempio: abbiamo fotovoltaico e BESS e vogliamo sostituire la pianificazione manuale…"
+  ],
+  [
+    418,
+    "Parliamo delle possibilità di Operion OS"
+  ],
+  [
+    419,
+    "Prepareremo una bozza nella tua app di posta, da controllare prima dell’invio."
+  ],
+  [
+    420,
+    "La richiesta è pronta. Se l’app di posta non si è aperta, copia il testo e invialo a fusioeng@gmail.com."
+  ],
+  [
+    421,
+    "Richiesta preparata"
+  ],
+  [
+    422,
+    "Copia il testo ↗"
+  ],
+  [
+    423,
+    "Apri la posta ↗"
+  ],
+  [
+    424,
+    "Energia. Analisi. Controllo."
+  ],
+  [
+    425,
+    "Torna all’inizio ↑"
+  ],
+  [
+    427,
+    "Chiama Fusion Engineering: +380 63 863 0000"
+  ],
+  [
+    428,
+    "Parliamo di Operion OS"
+  ],
+  [
+    429,
+    "Metti in pausa le animazioni"
+  ],
+  [
+    430,
+    "Controlli delle animazioni"
+  ],
+  [
+    431,
+    "Più energia propria per l’autoconsumo."
+  ],
+  [
+    432,
+    "Confronta il profilo di generazione fotovoltaica con la domanda dell’azienda. Scopri quando puoi accumulare l’eccedenza e quando dovrai acquistare energia dalla rete."
+  ],
+  [
+    433,
+    "Coordinare generazione, domanda e disponibilità dell’accumulo."
+  ],
+  [
+    434,
+    "Bilancio energetico unificato, previsione e piano di utilizzo degli asset disponibili."
+  ],
+  [
+    435,
+    "Profilo di domanda, potenza fotovoltaica, limiti di immissione e disponibilità del BESS."
+  ],
+  [
+    436,
+    "GESTIONE DELL’ACCUMULO"
+  ],
+  [
+    437,
+    "La batteria segue la logica economica. Con la riserva necessaria."
+  ],
+  [
+    438,
+    "Sposta gli acquisti di energia tra le ore quando tariffa e condizioni tecniche lo rendono conveniente. Definisci separatamente la riserva di autonomia e l’utilizzo consentito della vita utile della batteria."
+  ],
+  [
+    439,
+    "Ridurre gli acquisti nelle ore costose conservando la riserva concordata."
+  ],
+  [
+    440,
+    "Programma di carica e scarica che considera prezzo, rendimento, domanda e limiti."
+  ],
+  [
+    441,
+    "Capacità utile, potenza, SoC, accesso al BMS e ai comandi dell’inverter."
+  ],
+  [
+    442,
+    "Comprendi il sito attraverso i dati. In un quadro condiviso."
+  ],
+  [
+    443,
+    "Unisci i punti di consumo e generazione in una visione coerente. I dati condivisi aiutano l’energy manager a controllare le modalità operative e la direzione a capire la struttura dei costi."
+  ],
+  [
+    444,
+    "Unificare le letture disperse e comprendere il bilancio energetico."
+  ],
+  [
+    445,
+    "Raccolta delle misure, storico, confronto dei periodi e analisi degli scostamenti."
+  ],
+  [
+    446,
+    "Schema di misura, elenco dei contatori, interfacce e qualità dei dati disponibili."
+  ],
+  [
+    447,
+    "Chiudi il menu"
+  ],
+  [
+    448,
+    "${0}:00 — ${1} ₴/kWh"
+  ],
+  [
+    449,
+    "Caricare a un prezzo inferiore"
+  ],
+  [
+    450,
+    "Sostituire gli acquisti costosi"
+  ],
+  [
+    451,
+    "Conservare la riserva"
+  ],
+  [
+    452,
+    "Mantenere la flessibilità"
+  ],
+  [
+    453,
+    "In questo esempio il prezzo notturno è inferiore. Il piano prevede la carica se la differenza di prezzo attesa copre perdite e usura della batteria."
+  ],
+  [
+    454,
+    "L’energia accumulata copre parte della domanda nelle ore costose. La scarica è limitata dalla potenza e dalla riserva concordata."
+  ],
+  [
+    455,
+    "In questo esempio il periodo di scarica è terminato. L’accumulo mantiene la riserva concordata fino al prossimo ciclo di pianificazione."
+  ],
+  [
+    456,
+    "Nello scenario diurno la priorità è l’autoconsumo della generazione fotovoltaica. L’eccedenza può caricare l’accumulo se il suo stato lo consente."
+  ],
+  [
+    457,
+    "02:00 / NOTTE"
+  ],
+  [
+    458,
+    "Carica: 80 kW"
+  ],
+  [
+    459,
+    "SPOSTAMENTO DEGLI ACQUISTI"
+  ],
+  [
+    460,
+    "Accumulare energia per le ore più costose."
+  ],
+  [
+    461,
+    "Nel piano dimostrativo la rete copre 110 kW di domanda e 80 kW di carica. La convenienza dipende dalla tariffa, dalle perdite e dall’usura della batteria."
+  ],
+  [
+    462,
+    "Bilancio: 190 = 110 + 80 kW"
+  ],
+  [
+    463,
+    "La rete fornisce 190 kW: l’azienda ne consuma 110 e 80 caricano la batteria."
+  ],
+  [
+    464,
+    "Sfruttare il sole. Accumulare l’eccedenza."
+  ],
+  [
+    465,
+    "La generazione supera la domanda attuale. In questo scenario il sito utilizza 180 kW e 60 caricano il BESS."
+  ],
+  [
+    466,
+    "Il fotovoltaico genera 240 kW: l’azienda ne consuma 180 e 60 caricano la batteria. Acquisto dalla rete: 0 kW."
+  ],
+  [
+    467,
+    "18:00 / PICCO"
+  ],
+  [
+    468,
+    "Scarica: 145 kW"
+  ],
+  [
+    469,
+    "SOSTITUZIONE DEGLI ACQUISTI COSTOSI"
+  ],
+  [
+    470,
+    "Coprire la domanda con l’energia del BESS."
+  ],
+  [
+    471,
+    "35 kW dal fotovoltaico e 145 kW dall’accumulo coprono 180 kW di consumo. La scarica è limitata dalla riserva e dalla potenza concordate."
+  ],
+  [
+    472,
+    "Bilancio: 35 + 145 = 180 kW"
+  ],
+  [
+    473,
+    "Il fotovoltaico fornisce 35 kW, la batteria eroga 145 kW e l’azienda consuma 180 kW. Acquisto dalla rete: 0 kW."
+  ],
+  [
+    474,
+    " kW"
+  ],
+  [
+    475,
+    "Metti in pausa il cambio automatico degli scenari"
+  ],
+  [
+    476,
+    "Ⅱ Pausa"
+  ],
+  [
+    477,
+    "IMPRESE INDUSTRIALI"
+  ],
+  [
+    478,
+    "L’energia deve seguire il ritmo della produzione."
+  ],
+  [
+    479,
+    "Turni, reparti diversi e generazione propria creano un profilo di consumo complesso. La programmazione manuale dell’accumulo non coincide sempre con la domanda reale."
+  ],
+  [
+    480,
+    "Energy manager · direttore tecnico · responsabile finanziario"
+  ],
+  [
+    481,
+    "Una visione unica di alimentazioni, generazione e asset. Un piano operativo del BESS che considera profilo produttivo, tariffa e riserva concordata."
+  ],
+  [
+    482,
+    "Utilizzo del fotovoltaico in autoconsumo e spostamento di parte degli acquisti tra le ore, senza interferire con il processo produttivo."
+  ],
+  [
+    483,
+    "Profilo di consumo orario, turni, potenza FV/BESS, limiti di connessione e interfacce disponibili."
+  ],
+  [
+    484,
+    "LOGISTICA E CATENA DEL FREDDO"
+  ],
+  [
+    485,
+    "Il freddo non aspetta. Riserva e costi vanno coordinati."
+  ],
+  [
+    486,
+    "Magazzini e complessi frigoriferi hanno una domanda prolungata. Il funzionamento economico dell’accumulo deve considerare consumi critici e riserva di autonomia."
+  ],
+  [
+    487,
+    "Responsabile del sito · energy manager · team operativo"
+  ],
+  [
+    488,
+    "Monitoraggio dei carichi frigoriferi e del bilancio complessivo. Stato del BESS trasparente e scenario di utilizzo con un vincolo separato per la riserva."
+  ],
+  [
+    489,
+    "Il fotovoltaico copre la domanda diurna, il BESS sposta parte degli acquisti nelle ore più convenienti. L’autonomia viene valutata separatamente, non garantita a priori."
+  ],
+  [
+    490,
+    "Domanda critica, durata di autonomia richiesta, potenza dell’inverter, capacità della batteria e funzionamento reale."
+  ],
+  [
+    491,
+    "AGRICOLTURA E TRASFORMAZIONE"
+  ],
+  [
+    492,
+    "La domanda stagionale richiede un piano flessibile."
+  ],
+  [
+    493,
+    "Durante la stagione cambiano i consumi di un silo o di un impianto di trasformazione. Impostazioni identiche per tutto l’anno possono non corrispondere al funzionamento reale."
+  ],
+  [
+    494,
+    "Titolare dell’azienda · responsabile tecnico · energy manager"
+  ],
+  [
+    495,
+    "Storico dei consumi per periodo, confronto con la generazione e pianificazione degli asset energetici in base al profilo stagionale."
+  ],
+  [
+    496,
+    "Energia solare propria per i processi diurni, carica del BESS nei periodi concordati e scarica in base alle esigenze del sito. Le linee produttive non vengono commutate senza un progetto specifico."
+  ],
+  [
+    497,
+    "Programmi stagionali, funzionamento degli impianti principali, fonti di generazione, tariffa e possibilità di misura."
+  ],
+  [
+    498,
+    "COMMERCIO E CENTRI COMMERCIALI"
+  ],
+  [
+    499,
+    "Coordina la generazione diurna con i consumi serali."
+  ],
+  [
+    500,
+    "Generazione solare, refrigerazione, illuminazione e attività serale creano profili di domanda diversi. Spesso i dati rimangono in sistemi separati."
+  ],
+  [
+    501,
+    "Direttore del sito · energy manager della rete · responsabile finanziario"
+  ],
+  [
+    502,
+    "Bilancio energetico, confronto dei periodi e piano di utilizzo del BESS. La direzione vede la struttura dei costi, gli ingegneri le condizioni e i limiti dello scenario."
+  ],
+  [
+    503,
+    "Autoconsumo della generazione propria e sostituzione di parte degli acquisti serali più costosi, se tariffa e domanda lo rendono economicamente conveniente."
+  ],
+  [
+    504,
+    "Orari di attività, domanda diurna e serale, schema di misura, tariffa, fotovoltaico e accumulo esistenti."
+  ],
+  [
+    505,
+    "IMMOBILI COMMERCIALI"
+  ],
+  [
+    506,
+    "Trasforma letture disperse nel bilancio dell’edificio."
+  ],
+  [
+    507,
+    "Più alimentazioni, aree comuni e orari diversi degli utenti complicano il monitoraggio energetico di uffici, hotel e complessi."
+  ],
+  [
+    508,
+    "Società di gestione · team operativo · proprietà dell’immobile"
+  ],
+  [
+    509,
+    "Monitoraggio energetico nei punti concordati, storico di generazione e consumo e confronto dei periodi. Se sono presenti asset controllabili, è disponibile un modulo separato di ottimizzazione."
+  ],
+  [
+    510,
+    "Iniziare dalla raccolta dei dati e dal controllo degli scostamenti. Dopo aver valutato il profilo, aggiungere un piano concordato per fotovoltaico e BESS."
+  ],
+  [
+    511,
+    "Schema delle alimentazioni, elenco dei contatori, carichi comuni e interfacce. Il monitoraggio energetico interno non sostituisce la fatturazione agli inquilini."
+  ],
+  [
+    512,
+    "GRUPPI DI SITI"
+  ],
+  [
+    513,
+    "Un criterio comune di valutazione. Regole specifiche per ogni sito."
+  ],
+  [
+    514,
+    "App separate, inverter diversi e tariffe differenti rendono più difficile confrontare i siti e individuare le cause degli scostamenti."
+  ],
+  [
+    515,
+    "Energy manager del gruppo · direttore tecnico · responsabile della rete"
+  ],
+  [
+    516,
+    "Un approccio coerente alla raccolta delle misure, all’analisi dei periodi e alla definizione degli scenari. L’ambito del consolidamento e delle integrazioni viene fissato nel progetto."
+  ],
+  [
+    517,
+    "Un progetto pilota su un sito, con verifica dei dati e dell’effetto. Poi l’estensione della soluzione concordata, considerando le specificità di ogni sede."
+  ],
+  [
+    518,
+    "Elenco dei siti, modelli dei dispositivi, accessi, qualità dei dati e tariffe. La possibilità di controllo centralizzato viene verificata separatamente."
+  ],
+  [
+    519,
+    "Scenario giornaliero in pausa."
+  ],
+  [
+    520,
+    "Ora selezionata manualmente. Esplora la decisione corrispondente."
+  ],
+  [
+    521,
+    "Scenario giornaliero: un solo passaggio automatico dalle 00:00 alle 23:00."
+  ],
+  [
+    522,
+    "La giornata è completa. Seleziona un’ora per esplorare la decisione."
+  ],
+  [
+    523,
+    "Seleziona un’ora per esplorare la decisione. La riproduzione automatica è disattivata in base alle preferenze di movimento."
+  ],
+  [
+    524,
+    "Attiva le animazioni"
+  ],
+  [
+    525,
+    "Rete → domanda e carica del BESS"
+  ],
+  [
+    526,
+    "FV + scarica del BESS → domanda"
+  ],
+  [
+    527,
+    "Scarica: "
+  ],
+  [
+    528,
+    "Carica: "
+  ],
+  [
+    529,
+    "Bilancio: ${0} = ${1} + ${2} kW"
+  ],
+  [
+    530,
+    "Bilancio: ${0} + ${1} = ${2} kW"
+  ],
+  [
+    531,
+    "Rete: ${0} kW. Domanda: ${1} kW. Carica del BESS: ${2} kW."
+  ],
+  [
+    532,
+    "FV: ${0} kW. Domanda: ${1} kW. Carica del BESS: ${2} kW."
+  ],
+  [
+    533,
+    "FV: ${0} kW. Scarica del BESS: ${1} kW. Domanda: ${2} kW."
+  ],
+  [
+    534,
+    " I valori di due siti illustrativi vengono sommati; le batterie hanno la stessa capacità e lo stesso SoC."
+  ],
+  [
+    535,
+    " Un profilo didattico separato per un sito logistico."
+  ],
+  [
+    536,
+    "Selezionato: "
+  ],
+  [
+    537,
+    "valutazione"
+  ],
+  [
+    538,
+    "modellazione"
+  ],
+  [
+    539,
+    "integrazione"
+  ],
+  [
+    540,
+    "esercizio"
+  ],
+  [
+    541,
+    "Torna alla prima fase"
+  ],
+  [
+    542,
+    "Selezionati ${0} su 4. La selezione rimane su questa pagina e non viene inviata."
+  ],
+  [
+    543,
+    "Richiesta su Operion OS\n\nNome: ${0}\nAzienda: ${1}\nContatto: ${2}\n\nInformazioni sul sito:\n${3}"
+  ],
+  [
+    544,
+    "Operion OS — richiesta sul sito"
+  ],
+  [
+    545,
+    "La bozza è pronta. Inviala dalla tua app di posta."
+  ],
+  [
+    546,
+    "Invio della richiesta…"
+  ],
+  [
+    547,
+    "Controlla nome, azienda, recapito e descrizione dell’esigenza."
+  ],
+  [
+    548,
+    "Troppi tentativi. Riprova più tardi oppure scrivici direttamente."
+  ],
+  [
+    549,
+    "Impossibile inviare la richiesta. Riprova più tardi o scrivi a fusioeng@gmail.com."
+  ],
+  [
+    550,
+    "La richiesta è stata accettata per l’invio. Grazie: ti contatteremo al recapito indicato."
+  ],
+  [
+    551,
+    "Impossibile inviare la richiesta. Il testo è rimasto nei campi: riprova o scrivi a fusioeng@gmail.com."
+  ],
+  [
+    552,
+    "Copiato ✓"
+  ],
+  [
+    553,
+    "Testo selezionato: premi Ctrl+C"
+  ]
+]

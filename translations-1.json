@@ -1,0 +1,992 @@
+[
+  [
+    198,
+    "EQUIPMENT / CONSTRAINTS",
+    "EQUIPOS / RESTRICCIONES"
+  ],
+  [
+    199,
+    "Data sources",
+    "Fuentes de datos"
+  ],
+  [
+    200,
+    "METERING",
+    "MEDICIÓN"
+  ],
+  [
+    201,
+    "Reserve and technical limits",
+    "Reserva y límites técnicos"
+  ],
+  [
+    202,
+    "CONTEXT FOR REVIEW",
+    "CONTEXTO PARA LA REVISIÓN"
+  ],
+  [
+    203,
+    "For executives",
+    "Para la dirección"
+  ],
+  [
+    204,
+    "Understand costs.",
+    "Comprenda los costes."
+  ],
+  [
+    205,
+    "Assess the results.",
+    "Evalúe los resultados."
+  ],
+  [
+    206,
+    "Energy cost breakdown.",
+    "Desglose de los costes energéticos."
+  ],
+  [
+    207,
+    "Planned versus actual performance.",
+    "Comparación entre lo previsto y lo real."
+  ],
+  [
+    208,
+    "PLANNED / ACTUAL",
+    "PREVISTO / REAL"
+  ],
+  [
+    209,
+    "RESULTS FOR THE PERIOD",
+    "RESULTADOS DEL PERÍODO"
+  ],
+  [
+    210,
+    "One shared view of the balance, technical constraints and results across your team.",
+    "Una visión compartida del balance, las restricciones técnicas y los resultados para todo el equipo."
+  ],
+  [
+    211,
+    "Illustration of capabilities. Available data depends on the site's integrations.",
+    "Ilustración de las funciones. Los datos disponibles dependen de las integraciones de la instalación."
+  ],
+  [
+    212,
+    "SOLUTION ARCHITECTURE",
+    "ARQUITECTURA DE LA SOLUCIÓN"
+  ],
+  [
+    213,
+    "How data becomes",
+    "Cómo los datos se convierten en"
+  ],
+  [
+    214,
+    "business decisions.",
+    "decisiones para su empresa."
+  ],
+  [
+    215,
+    "Three parts of one system: data sources, agreed operating logic and clear results.",
+    "Tres partes de un mismo sistema: fuentes de datos, una lógica de operación acordada y resultados claros."
+  ],
+  [
+    216,
+    "INPUT",
+    "ENTRADA"
+  ],
+  [
+    217,
+    "Your site's context",
+    "El contexto de su instalación"
+  ],
+  [
+    218,
+    "Energy equipment",
+    "Equipos energéticos"
+  ],
+  [
+    219,
+    "Solar PV, inverters, BMS and meters.",
+    "Instalación FV, inversores, BMS y contadores."
+  ],
+  [
+    220,
+    "Operating conditions",
+    "Condiciones de operación"
+  ],
+  [
+    221,
+    "Load, reserve and technical limits.",
+    "Demanda, reserva y límites técnicos."
+  ],
+  [
+    222,
+    "External data",
+    "Datos externos"
+  ],
+  [
+    223,
+    "Tariff, market prices and generation forecast.",
+    "Tarifa, precios de mercado y previsión de generación."
+  ],
+  [
+    224,
+    "Agreed data sources",
+    "Fuentes de datos acordadas"
+  ],
+  [
+    225,
+    "IN THE PLATFORM",
+    "EN LA PLATAFORMA"
+  ],
+  [
+    226,
+    "Metering",
+    "Medición"
+  ],
+  [
+    227,
+    "Bring data into one energy balance",
+    "Unificar los datos en un balance energético"
+  ],
+  [
+    228,
+    "Forecast",
+    "Previsión"
+  ],
+  [
+    229,
+    "Look ahead to the coming hours",
+    "Anticipar las próximas horas"
+  ],
+  [
+    230,
+    "Plan",
+    "Planificación"
+  ],
+  [
+    231,
+    "Agree on an operating scenario",
+    "Acordar un escenario de operación"
+  ],
+  [
+    232,
+    "Control",
+    "Control"
+  ],
+  [
+    233,
+    "Compare execution with the plan",
+    "Comparar la ejecución con el plan"
+  ],
+  [
+    234,
+    "Technical limits and reserve take priority.",
+    "Los límites técnicos y la reserva tienen prioridad."
+  ],
+  [
+    235,
+    "OUTPUT",
+    "SALIDA"
+  ],
+  [
+    236,
+    "Results for your team",
+    "Resultados para su equipo"
+  ],
+  [
+    237,
+    "Agreed plan",
+    "Plan acordado"
+  ],
+  [
+    238,
+    "Clear actions for the energy manager and operator.",
+    "Acciones claras para el responsable de energía y el operador."
+  ],
+  [
+    239,
+    "Asset control",
+    "Control de activos"
+  ],
+  [
+    240,
+    "Available commands within the selected mode.",
+    "Órdenes disponibles dentro del modo seleccionado."
+  ],
+  [
+    241,
+    "Performance report",
+    "Informe de resultados"
+  ],
+  [
+    242,
+    "Energy, execution and economics for the period.",
+    "Energía, ejecución y análisis económico del período."
+  ],
+  [
+    243,
+    "From readings to action and evaluation",
+    "De las mediciones a la acción y la evaluación"
+  ],
+  [
+    244,
+    "VERIFY FIRST",
+    "PRIMERO, LA VERIFICACIÓN"
+  ],
+  [
+    245,
+    "We verify access to data and commands during the technical audit. The algorithm and level of automation are agreed before launch.",
+    "Verificamos el acceso a los datos y a las órdenes durante la auditoría técnica. Acordamos el algoritmo y el nivel de automatización antes de la puesta en marcha."
+  ],
+  [
+    246,
+    "Our implementation process",
+    "Cómo lo implementamos"
+  ],
+  [
+    247,
+    "02 / USE CASES",
+    "02 / CASOS DE USO"
+  ],
+  [
+    248,
+    "Your assets.",
+    "Sus activos."
+  ],
+  [
+    249,
+    "A specific task.",
+    "Un objetivo concreto."
+  ],
+  [
+    250,
+    "Select your site's configuration. Explore the task, the solution logic and what we need to check first.",
+    "Seleccione la configuración de su instalación. Consulte el objetivo, la lógica de la solución y lo que debemos comprobar al inicio."
+  ],
+  [
+    251,
+    "Site scenario",
+    "Escenario de la instalación"
+  ],
+  [
+    252,
+    "SOLAR GENERATION",
+    "GENERACIÓN SOLAR"
+  ],
+  [
+    253,
+    "Business with solar PV",
+    "Empresa con instalación FV"
+  ],
+  [
+    254,
+    "ENERGY STORAGE",
+    "ALMACENAMIENTO DE ENERGÍA"
+  ],
+  [
+    255,
+    "Site with BESS",
+    "Instalación con BESS"
+  ],
+  [
+    256,
+    "UNIFIED METERING",
+    "MEDICIÓN UNIFICADA"
+  ],
+  [
+    257,
+    "Multiple metering points",
+    "Varios puntos de medición"
+  ],
+  [
+    258,
+    "Discuss my scenario",
+    "Analizar mi escenario"
+  ],
+  [
+    259,
+    "Site",
+    "Instalación"
+  ],
+  [
+    260,
+    "THE TASK",
+    "EL OBJETIVO"
+  ],
+  [
+    261,
+    "SOLUTION LOGIC",
+    "LÓGICA DE LA SOLUCIÓN"
+  ],
+  [
+    262,
+    "WHAT WE CHECK FIRST",
+    "QUÉ COMPROBAMOS AL INICIO"
+  ],
+  [
+    263,
+    "03 / CONTROL LOGIC",
+    "03 / LÓGICA DE CONTROL"
+  ],
+  [
+    264,
+    "Every hour calls for",
+    "Cada hora requiere"
+  ],
+  [
+    265,
+    "its own decision.",
+    "su propia decisión."
+  ],
+  [
+    266,
+    "Explore how the operating scenario changes throughout the day. This is an educational example, not current market prices or real customer data.",
+    "Explore cómo cambia el escenario de operación a lo largo del día. Es un ejemplo didáctico, no precios de mercado actuales ni datos reales de clientes."
+  ],
+  [
+    267,
+    "EXAMPLE DAILY PLAN",
+    "EJEMPLO DE PLAN DIARIO"
+  ],
+  [
+    268,
+    "Price and battery operation",
+    "Precio y operación de la batería"
+  ],
+  [
+    269,
+    "Demo",
+    "Demostración"
+  ],
+  [
+    270,
+    "Price, ₴/kWh",
+    "Precio, ₴/kWh"
+  ],
+  [
+    271,
+    "Charging",
+    "Carga"
+  ],
+  [
+    272,
+    "Discharging",
+    "Descarga"
+  ],
+  [
+    273,
+    "Hourly price example. Select an hour",
+    "Ejemplo de precios por hora. Seleccione una hora"
+  ],
+  [
+    274,
+    "Scenario hour",
+    "Hora del escenario"
+  ],
+  [
+    275,
+    "Charge from the grid",
+    "Carga desde la red"
+  ],
+  [
+    276,
+    "On-site generation",
+    "Generación propia"
+  ],
+  [
+    277,
+    "Energy from BESS",
+    "Energía del BESS"
+  ],
+  [
+    278,
+    "The daily scenario starts automatically when you reach the chart.",
+    "El escenario diario se inicia automáticamente al llegar al gráfico."
+  ],
+  [
+    279,
+    "24 hours in 24 seconds. You can select any hour manually.",
+    "24 horas en 24 segundos. Puede seleccionar una hora manualmente."
+  ],
+  [
+    280,
+    "DECISION AT",
+    "DECISIÓN A LAS"
+  ],
+  [
+    281,
+    "Example price",
+    "Precio del ejemplo"
+  ],
+  [
+    282,
+    "Reserve is a separate constraint",
+    "La reserva es una restricción independiente"
+  ],
+  [
+    283,
+    "Energy reserved for backup is not used for optimisation without agreement.",
+    "La energía reservada para autonomía no se utiliza para optimizar sin un acuerdo previo."
+  ],
+  [
+    284,
+    "04 / IMPLEMENTATION",
+    "04 / IMPLEMENTACIÓN"
+  ],
+  [
+    285,
+    "From your site",
+    "De su instalación"
+  ],
+  [
+    286,
+    "to a coordinated system.",
+    "a un sistema coordinado."
+  ],
+  [
+    287,
+    "Four stages. Each delivers a clear outcome and a decision on the next step.",
+    "Cuatro etapas. Cada una aporta un resultado claro y una decisión sobre el siguiente paso."
+  ],
+  [
+    288,
+    "Select a stage to explore the details",
+    "Seleccione una etapa para ver los detalles"
+  ],
+  [
+    289,
+    "Implementation stages",
+    "Etapas de implementación"
+  ],
+  [
+    290,
+    "ASSESSMENT",
+    "EVALUACIÓN"
+  ],
+  [
+    291,
+    "Gathering context",
+    "Recopilamos el contexto"
+  ],
+  [
+    292,
+    "MODELLING",
+    "MODELADO"
+  ],
+  [
+    293,
+    "Modelling scenarios",
+    "Calculamos escenarios"
+  ],
+  [
+    294,
+    "INTEGRATION",
+    "INTEGRACIÓN"
+  ],
+  [
+    295,
+    "Verifying the plan",
+    "Verificamos el plan"
+  ],
+  [
+    296,
+    "OPERATION",
+    "OPERACIÓN"
+  ],
+  [
+    297,
+    "Monitoring results",
+    "Supervisamos los resultados"
+  ],
+  [
+    298,
+    "STAGE 01 / 04",
+    "ETAPA 01 / 04"
+  ],
+  [
+    299,
+    "We start with what is already working at your site.",
+    "Empezamos por lo que ya funciona en su instalación."
+  ],
+  [
+    300,
+    "Equipment and power supply diagram",
+    "Equipos y esquema de alimentación"
+  ],
+  [
+    301,
+    "Data sources and interfaces",
+    "Fuentes de datos e interfaces"
+  ],
+  [
+    302,
+    "Tariff and consumption history",
+    "Tarifa e historial de consumo"
+  ],
+  [
+    303,
+    "TOGETHER WITH YOU",
+    "JUNTO CON USTED"
+  ],
+  [
+    304,
+    "Agree on the input data",
+    "Acordar los datos de partida"
+  ],
+  [
+    305,
+    "STAGE DELIVERABLE",
+    "RESULTADO DE LA ETAPA"
+  ],
+  [
+    306,
+    "METERS",
+    "CONTADORES"
+  ],
+  [
+    307,
+    "SITE",
+    "MAPA DE LA"
+  ],
+  [
+    308,
+    "MAP",
+    "INSTALACIÓN"
+  ],
+  [
+    309,
+    "Power supply diagram",
+    "Esquema de alimentación"
+  ],
+  [
+    310,
+    "Available interfaces",
+    "Interfaces disponibles"
+  ],
+  [
+    311,
+    "Technical constraints",
+    "Restricciones técnicas"
+  ],
+  [
+    312,
+    "Site map",
+    "Mapa de la instalación"
+  ],
+  [
+    313,
+    "An inventory of available data and technical constraints.",
+    "Un inventario de los datos disponibles y las restricciones técnicas."
+  ],
+  [
+    314,
+    "Illustrative deliverable structure, not customer data.",
+    "Estructura ilustrativa del resultado, no datos de clientes."
+  ],
+  [
+    315,
+    "STAGE 02 / 04",
+    "ETAPA 02 / 04"
+  ],
+  [
+    316,
+    "We compare baseline operation with possible charging and discharging schedules.",
+    "Comparamos la operación de referencia con posibles horarios de carga y descarga."
+  ],
+  [
+    317,
+    "Account for the load profile",
+    "Consideramos el perfil de demanda"
+  ],
+  [
+    318,
+    "Set reserve and technical limits",
+    "Definimos la reserva y los límites técnicos"
+  ],
+  [
+    319,
+    "Check the economic assumptions",
+    "Verificamos las hipótesis económicas"
+  ],
+  [
+    320,
+    "Select a scenario to validate",
+    "Seleccionar un escenario para validar"
+  ],
+  [
+    321,
+    "BASELINE",
+    "REFERENCIA"
+  ],
+  [
+    322,
+    "SCENARIO",
+    "ESCENARIO"
+  ],
+  [
+    323,
+    "Load profile",
+    "Perfil de demanda"
+  ],
+  [
+    324,
+    "Reserve and limits",
+    "Reserva y límites"
+  ],
+  [
+    325,
+    "Model assumptions",
+    "Hipótesis del modelo"
+  ],
+  [
+    326,
+    "Scenario model",
+    "Modelo del escenario"
+  ],
+  [
+    327,
+    "An estimate of the impact with explicit assumptions and applicability limits.",
+    "Una estimación del efecto con hipótesis y límites de aplicación explícitos."
+  ],
+  [
+    328,
+    "STAGE 03 / 04",
+    "ETAPA 03 / 04"
+  ],
+  [
+    329,
+    "We connect the agreed sources and verify that the plan can be executed.",
+    "Conectamos las fuentes acordadas y verificamos que el plan pueda ejecutarse."
+  ],
+  [
+    330,
+    "Check measurement quality",
+    "Verificamos la calidad de las mediciones"
+  ],
+  [
+    331,
+    "Test recommendations and commands",
+    "Probamos las recomendaciones y las órdenes"
+  ],
+  [
+    332,
+    "Agree on rules and operating mode",
+    "Acordamos las reglas y el modo de operación"
+  ],
+  [
+    333,
+    "Approve the launch",
+    "Aprobar la puesta en marcha"
+  ],
+  [
+    335,
+    "RULES",
+    "REGLAS"
+  ],
+  [
+    336,
+    "COMMANDS",
+    "ÓRDENES"
+  ],
+  [
+    337,
+    "Connected sources",
+    "Fuentes conectadas"
+  ],
+  [
+    338,
+    "Scenario validation",
+    "Validación del escenario"
+  ],
+  [
+    339,
+    "Agreed mode",
+    "Modo acordado"
+  ],
+  [
+    340,
+    "Validation report",
+    "Informe de validación"
+  ],
+  [
+    341,
+    "Agreed rules, available commands and control mode.",
+    "Reglas acordadas, órdenes disponibles y modo de control."
+  ],
+  [
+    342,
+    "STAGE 04 / 04",
+    "ETAPA 04 / 04"
+  ],
+  [
+    343,
+    "We compare the plan with actual performance and investigate deviations.",
+    "Comparamos el plan con los resultados reales y analizamos las desviaciones."
+  ],
+  [
+    344,
+    "Analyse energy and execution",
+    "Analizamos la energía y la ejecución"
+  ],
+  [
+    345,
+    "Track deviations",
+    "Supervisamos las desviaciones"
+  ],
+  [
+    346,
+    "Adjust agreed settings",
+    "Ajustamos la configuración acordada"
+  ],
+  [
+    347,
+    "Move to the next cycle",
+    "Pasar al siguiente ciclo"
+  ],
+  [
+    348,
+    "ACTUAL",
+    "REAL"
+  ],
+  [
+    349,
+    "Comparison for the period",
+    "Comparación del período"
+  ],
+  [
+    350,
+    "Causes of deviations",
+    "Causas de las desviaciones"
+  ],
+  [
+    351,
+    "Settings refinement",
+    "Ajuste de la configuración"
+  ],
+  [
+    352,
+    "Period report",
+    "Informe del período"
+  ],
+  [
+    353,
+    "Transparent operational and energy records.",
+    "Registros operativos y energéticos transparentes."
+  ],
+  [
+    354,
+    "Selected: assessment",
+    "Seleccionado: evaluación"
+  ],
+  [
+    355,
+    "Next stage",
+    "Siguiente etapa"
+  ],
+  [
+    356,
+    "FOR OUR FIRST CONVERSATION",
+    "PARA LA PRIMERA CONVERSACIÓN"
+  ],
+  [
+    357,
+    "What do you already have?",
+    "¿De qué dispone ya?"
+  ],
+  [
+    358,
+    "Select what is available. This helps us get started; it is not a mandatory checklist.",
+    "Marque lo que tenga disponible. Es una orientación para empezar, no una lista de requisitos obligatorios."
+  ],
+  [
+    359,
+    "Equipment inventory",
+    "Inventario de equipos"
+  ],
+  [
+    360,
+    "Metering diagram",
+    "Esquema de medición"
+  ],
+  [
+    361,
+    "Tariff or contract",
+    "Tarifa o contrato"
+  ],
+  [
+    362,
+    "Load history",
+    "Historial de demanda"
+  ],
+  [
+    363,
+    "We can start with what you have.",
+    "Podemos empezar con lo que tenga."
+  ],
+  [
+    364,
+    "Discuss how to start",
+    "Hablar sobre cómo empezar"
+  ],
+  [
+    365,
+    "YOUR QUESTIONS ANSWERED",
+    "RESPUESTAS A SUS PREGUNTAS"
+  ],
+  [
+    366,
+    "Details",
+    "Los detalles"
+  ],
+  [
+    367,
+    "matter.",
+    "importan."
+  ],
+  [
+    368,
+    "Let's discuss what matters before work begins.",
+    "Hablemos de lo importante antes de empezar."
+  ],
+  [
+    369,
+    "CONTEXT FIRST.",
+    "PRIMERO EL CONTEXTO."
+  ],
+  [
+    370,
+    "THEN THE SOLUTION.",
+    "DESPUÉS LA SOLUCIÓN."
+  ],
+  [
+    371,
+    "I have another question",
+    "Tengo otra pregunta"
+  ],
+  [
+    372,
+    "Generated illustration",
+    "Ilustración generada"
+  ],
+  [
+    373,
+    "LESS UNCERTAINTY",
+    "MENOS INCERTIDUMBRE"
+  ],
+  [
+    374,
+    "Technical and commercial terms are defined after analysing your specific site.",
+    "Las condiciones técnicas y comerciales se definen tras analizar su instalación concreta."
+  ],
+  [
+    375,
+    "Question topic",
+    "Tema de las preguntas"
+  ],
+  [
+    376,
+    "All questions",
+    "Todas las preguntas"
+  ],
+  [
+    377,
+    "Equipment",
+    "Equipos"
+  ],
+  [
+    378,
+    "Control",
+    "Control"
+  ],
+  [
+    379,
+    "Terms",
+    "Condiciones"
+  ],
+  [
+    380,
+    "Do we need to replace existing equipment?",
+    "¿Es necesario sustituir los equipos existentes?"
+  ],
+  [
+    381,
+    "Our aim is to use your existing infrastructure. Access to readings and commands depends on the specific models, firmware and interfaces. We check this before agreeing on the integration; an additional gateway or metering equipment may sometimes be needed.",
+    "Nuestro objetivo es aprovechar la infraestructura existente. El acceso a las mediciones y a las órdenes depende de los modelos, el firmware y las interfaces. Lo verificamos antes de acordar la integración; en algunos casos puede ser necesaria una pasarela adicional o equipos de medición."
+  ],
+  [
+    382,
+    "Can we start with energy metering only?",
+    "¿Podemos empezar solo con la medición energética?"
+  ],
+  [
+    383,
+    "Yes. Metering and control are separate modules. You can start by gaining visibility into consumption and generation, then add optimisation after collecting data and checking the economics.",
+    "Sí. La medición y el control son módulos independientes. Puede empezar por conocer el consumo y la generación, y añadir la optimización tras recopilar datos y comprobar la viabilidad económica."
+  ],
+  [
+    384,
+    "Does the system support selling energy to the grid?",
+    "¿El sistema permite vender energía a la red?"
+  ],
+  [
+    385,
+    "Export depends on the technical conditions, connection arrangement, contracts and regulatory requirements. We assess self-consumption and export capability separately during the site analysis.",
+    "La venta depende de las condiciones técnicas, el esquema de conexión, los contratos y los requisitos normativos. Durante el análisis de la instalación evaluamos por separado el autoconsumo y la posibilidad de exportar energía."
+  ],
+  [
+    386,
+    "How is backup reserve accounted for?",
+    "¿Cómo se tiene en cuenta la reserva ante un corte de suministro?"
+  ],
+  [
+    387,
+    "The minimum state of charge and backup priority are set as separate constraints. These are agreed before launch so the economic scenario does not consume the reserve your business needs.",
+    "El estado de carga mínimo y la prioridad de autonomía se definen como restricciones independientes. Se acuerdan antes de la puesta en marcha para que el escenario económico no consuma la reserva que necesita la empresa."
+  ],
+  [
+    388,
+    "What happens if communication is lost?",
+    "¿Qué ocurre si se pierde la comunicación?"
+  ],
+  [
+    389,
+    "The safe operating scenario for a communication failure is defined during design, taking local automation and inverter capabilities into account. It must be verified on site before switching to automatic mode.",
+    "El modo seguro ante una pérdida de comunicación se define durante el diseño, teniendo en cuenta la automatización local y las capacidades del inversor. Debe verificarse en la instalación antes de pasar al modo automático."
+  ],
+  [
+    390,
+    "How much does implementation cost?",
+    "¿Cuánto cuesta la implementación?"
+  ],
+  [
+    391,
+    "Cost depends on the modules, number of metering points, available interfaces and control complexity. After the initial analysis, we prepare a proposal specifying the integration scope and platform usage terms.",
+    "El coste depende de los módulos, el número de puntos de medición, las interfaces disponibles y la complejidad del control. Tras el análisis inicial, preparamos una propuesta que detalla el alcance de la integración y las condiciones de uso de la plataforma."
+  ],
+  [
+    392,
+    "Every site has its own conditions.",
+    "Cada instalación tiene sus propias condiciones."
+  ],
+  [
+    393,
+    "Ask us directly ↗",
+    "Consúltenos directamente ↗"
+  ],
+  [
+    394,
+    "YOUR NEXT ENERGY STEP",
+    "SU PRÓXIMO PASO EN ENERGÍA"
+  ],
+  [
+    395,
+    "Your energy",
+    "Su energía"
+  ],
+  [
+    396,
+    "can work",
+    "puede funcionar"
+  ]
+]

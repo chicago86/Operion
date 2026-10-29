@@ -1,0 +1,772 @@
+[
+  [
+    397,
+    "smarter.",
+    "mejor."
+  ],
+  [
+    398,
+    "Already have solar PV, battery storage and meters? Let's explore how to bring them into a coordinated system and which scenarios are worth testing at your site.",
+    "¿Ya dispone de una instalación FV, almacenamiento y contadores? Veamos cómo integrarlos en un sistema coordinado y qué escenarios conviene comprobar en su instalación."
+  ],
+  [
+    399,
+    "Define the business task",
+    "Definimos el objetivo de su empresa"
+  ],
+  [
+    400,
+    "Check data and equipment capabilities",
+    "Comprobamos los datos y las capacidades de los equipos"
+  ],
+  [
+    401,
+    "Outline the next step",
+    "Concretamos el siguiente paso"
+  ],
+  [
+    402,
+    "LET'S TALK DIRECTLY",
+    "HABLEMOS DIRECTAMENTE"
+  ],
+  [
+    403,
+    "Or email: fusioeng@gmail.com ↗",
+    "O escríbanos: fusioeng@gmail.com ↗"
+  ],
+  [
+    405,
+    "Developer of Operion OS",
+    "Desarrollador de Operion OS"
+  ],
+  [
+    406,
+    "LET'S START WITH YOUR SITE",
+    "EMPECEMOS POR SU INSTALACIÓN"
+  ],
+  [
+    407,
+    "What would you like to improve?",
+    "¿Qué le gustaría mejorar?"
+  ],
+  [
+    408,
+    "Describe your situation in a few words. A detailed technical specification is not needed at this stage.",
+    "Describa su situación en pocas palabras. En esta etapa no necesita una especificación técnica detallada."
+  ],
+  [
+    410,
+    "Your name",
+    "Su nombre"
+  ],
+  [
+    411,
+    "How should we address you?",
+    "¿Cómo debemos dirigirnos a usted?"
+  ],
+  [
+    412,
+    "Company",
+    "Empresa"
+  ],
+  [
+    413,
+    "Company name",
+    "Nombre de la empresa"
+  ],
+  [
+    414,
+    "Email or phone",
+    "Correo electrónico o teléfono"
+  ],
+  [
+    415,
+    "Your contact details",
+    "Sus datos de contacto"
+  ],
+  [
+    416,
+    "Your site's needs",
+    "Objetivo de la instalación"
+  ],
+  [
+    417,
+    "For example: we have solar PV and BESS and want to replace manual scheduling…",
+    "Por ejemplo: tenemos una instalación FV y BESS y queremos sustituir la planificación manual…"
+  ],
+  [
+    418,
+    "Discuss what Operion OS can do",
+    "Consultar las posibilidades de Operion OS"
+  ],
+  [
+    419,
+    "We'll prepare a draft in your email app for you to review before sending.",
+    "Prepararemos un borrador en su aplicación de correo para que lo revise antes de enviarlo."
+  ],
+  [
+    420,
+    "Your enquiry is ready. If your email app did not open, copy the text and send it to fusioeng@gmail.com.",
+    "Su consulta está preparada. Si no se ha abierto su aplicación de correo, copie el texto y envíelo a fusioeng@gmail.com."
+  ],
+  [
+    421,
+    "Prepared enquiry",
+    "Consulta preparada"
+  ],
+  [
+    422,
+    "Copy text ↗",
+    "Copiar texto ↗"
+  ],
+  [
+    423,
+    "Open email ↗",
+    "Abrir correo ↗"
+  ],
+  [
+    425,
+    "Back to top ↑",
+    "Volver al inicio ↑"
+  ],
+  [
+    427,
+    "Call Fusion Engineering: +380 63 863 0000",
+    "Llamar a Fusion Engineering: +380 63 863 0000"
+  ],
+  [
+    428,
+    "Let's discuss Operion OS",
+    "Hablemos de Operion OS"
+  ],
+  [
+    429,
+    "Pause animations",
+    "Pausar las animaciones"
+  ],
+  [
+    430,
+    "Animation controls",
+    "Controles de animación"
+  ],
+  [
+    431,
+    "More of your own energy used on site.",
+    "Más energía propia para su autoconsumo."
+  ],
+  [
+    432,
+    "Compare your solar PV generation profile with your business's load. Understand when surplus can be stored and when energy will need to be purchased from the grid.",
+    "Compare el perfil de generación FV con la demanda de su empresa. Sepa cuándo puede almacenar el excedente y cuándo será necesario comprar energía de la red."
+  ],
+  [
+    433,
+    "Coordinate generation, load and storage availability.",
+    "Coordinar la generación, la demanda y la capacidad de almacenamiento."
+  ],
+  [
+    434,
+    "A unified energy balance, forecast and plan for using available assets.",
+    "Un balance energético unificado, una previsión y un plan de uso de los activos disponibles."
+  ],
+  [
+    435,
+    "Load profile, solar PV capacity, export limits and BESS availability.",
+    "Perfil de demanda, potencia FV, límites de exportación y disponibilidad de BESS."
+  ],
+  [
+    436,
+    "STORAGE MANAGEMENT",
+    "GESTIÓN DEL ALMACENAMIENTO"
+  ],
+  [
+    437,
+    "A battery guided by economics. With the reserve you need.",
+    "Una batería con criterio económico. Con la reserva que necesita."
+  ],
+  [
+    438,
+    "Shift energy purchases between hours when the tariff and technical conditions make it worthwhile. Define backup reserve and allowable battery use separately.",
+    "Traslade las compras de energía entre horas cuando la tarifa y las condiciones técnicas lo justifiquen. Defina por separado la reserva para autonomía y el uso permitido de la vida útil de la batería."
+  ],
+  [
+    439,
+    "Reduce expensive purchases while preserving the agreed reserve.",
+    "Reducir las compras en horas caras conservando la reserva acordada."
+  ],
+  [
+    440,
+    "A charging and discharging schedule that accounts for price, efficiency, load and limits.",
+    "Un horario de carga y descarga que considera el precio, la eficiencia, la demanda y los límites."
+  ],
+  [
+    441,
+    "Usable capacity, power, SoC, access to the BMS and inverter commands.",
+    "Capacidad útil, potencia, SoC y acceso al BMS y a las órdenes del inversor."
+  ],
+  [
+    442,
+    "Understand your site through its data. In one shared view.",
+    "Comprenda su instalación a través de los datos. En una visión compartida."
+  ],
+  [
+    443,
+    "Bring consumption and generation points into one consistent picture. Shared data helps the energy manager control operating modes and executives understand the cost structure.",
+    "Unifique los puntos de consumo y generación en una visión coherente. Los datos compartidos ayudan al responsable de energía a controlar los modos de operación y a la dirección a comprender la estructura de costes."
+  ],
+  [
+    444,
+    "Consolidate scattered readings and understand the energy balance.",
+    "Unificar mediciones dispersas y comprender el balance energético."
+  ],
+  [
+    445,
+    "Data collection, history, period comparisons and deviation analysis.",
+    "Recopilación de datos, historial, comparación de períodos y análisis de desviaciones."
+  ],
+  [
+    446,
+    "Metering diagram, meter inventory, interfaces and available data quality.",
+    "Esquema de medición, inventario de contadores, interfaces y calidad de los datos disponibles."
+  ],
+  [
+    447,
+    "Close menu",
+    "Cerrar menú"
+  ],
+  [
+    448,
+    "${0}:00 — ${1} ₴/kWh",
+    "${0}:00 — ${1} ₴/kWh"
+  ],
+  [
+    449,
+    "Charge at a lower price",
+    "Cargar a un precio menor"
+  ],
+  [
+    450,
+    "Displace expensive purchases",
+    "Sustituir las compras en horas caras"
+  ],
+  [
+    451,
+    "Preserve reserve",
+    "Conservar la reserva"
+  ],
+  [
+    452,
+    "Maintain flexibility",
+    "Mantener la flexibilidad"
+  ],
+  [
+    453,
+    "In this example, the night-time price is lower. The plan schedules charging if the expected price difference covers losses and battery wear.",
+    "En este ejemplo, el precio nocturno es menor. El plan prevé cargar si la diferencia de precio esperada compensa las pérdidas y el desgaste de la batería."
+  ],
+  [
+    454,
+    "Stored energy covers part of the load during expensive hours. Discharging is limited by power and the agreed reserve.",
+    "La energía almacenada cubre parte de la demanda en las horas caras. La descarga está limitada por la potencia y la reserva acordada."
+  ],
+  [
+    455,
+    "In this example, the discharge period has ended. The battery maintains the agreed reserve until the next planning cycle.",
+    "En este ejemplo, el período de descarga ha terminado. La batería mantiene la reserva acordada hasta el siguiente ciclo de planificación."
+  ],
+  [
+    456,
+    "In the daytime scenario, using solar generation on site takes priority. Surplus can charge the battery if its condition permits.",
+    "En el escenario diurno, la prioridad es el autoconsumo de la generación FV. El excedente puede cargar la batería si su estado lo permite."
+  ],
+  [
+    457,
+    "02:00 / NIGHT",
+    "02:00 / NOCHE"
+  ],
+  [
+    458,
+    "Charging 80 kW",
+    "Carga de 80 kW"
+  ],
+  [
+    459,
+    "SHIFTING PURCHASES",
+    "TRASLADO DE COMPRAS"
+  ],
+  [
+    460,
+    "Build up energy for more expensive hours.",
+    "Acumular energía para las horas más caras."
+  ],
+  [
+    461,
+    "In the demo plan, the grid supplies 110 kW of load and 80 kW of charging. Viability depends on the tariff, losses and battery wear.",
+    "En el plan de demostración, la red cubre 110 kW de demanda y 80 kW de carga. La viabilidad depende de la tarifa, las pérdidas y el desgaste de la batería."
+  ],
+  [
+    462,
+    "Balance: 190 = 110 + 80 kW",
+    "Balance: 190 = 110 + 80 kW"
+  ],
+  [
+    463,
+    "The grid supplies 190 kW: the business consumes 110 kW and 80 kW charges the battery.",
+    "La red suministra 190 kW: la empresa consume 110 kW y 80 kW se destinan a cargar la batería."
+  ],
+  [
+    464,
+    "Use the sun. Store the surplus.",
+    "Aprovechar el sol. Almacenar el excedente."
+  ],
+  [
+    465,
+    "Generation exceeds the current load. In this scenario, the site uses 180 kW and 60 kW charges the BESS.",
+    "La generación supera la demanda actual. En este escenario, la instalación consume 180 kW y 60 kW se destinan a cargar el BESS."
+  ],
+  [
+    466,
+    "Solar PV generates 240 kW: the business consumes 180 kW and 60 kW charges the battery. Grid purchases: 0 kW.",
+    "La instalación FV genera 240 kW: la empresa consume 180 kW y 60 kW cargan la batería. Compra de la red: 0 kW."
+  ],
+  [
+    467,
+    "18:00 / PEAK",
+    "18:00 / PUNTA"
+  ],
+  [
+    468,
+    "Discharging 145 kW",
+    "Descarga de 145 kW"
+  ],
+  [
+    469,
+    "DISPLACING EXPENSIVE PURCHASES",
+    "SUSTITUCIÓN DE COMPRAS CARAS"
+  ],
+  [
+    470,
+    "Cover the load with BESS energy.",
+    "Cubrir la demanda con energía del BESS."
+  ],
+  [
+    471,
+    "35 kW from solar PV and 145 kW from the battery cover 180 kW of consumption. Discharging is limited by the agreed reserve and power.",
+    "35 kW de la instalación FV y 145 kW de la batería cubren 180 kW de consumo. La descarga está limitada por la reserva y la potencia acordadas."
+  ],
+  [
+    472,
+    "Balance: 35 + 145 = 180 kW",
+    "Balance: 35 + 145 = 180 kW"
+  ],
+  [
+    473,
+    "Solar PV supplies 35 kW, the battery delivers 145 kW and the business consumes 180 kW. Grid purchases: 0 kW.",
+    "La instalación FV aporta 35 kW, la batería entrega 145 kW y la empresa consume 180 kW. Compra de la red: 0 kW."
+  ],
+  [
+    474,
+    " kW",
+    " kW"
+  ],
+  [
+    475,
+    "Pause automatic scenario changes",
+    "Pausar el cambio automático de escenarios"
+  ],
+  [
+    476,
+    "Ⅱ Pause",
+    "Ⅱ Pausa"
+  ],
+  [
+    477,
+    "MANUFACTURING BUSINESSES",
+    "EMPRESAS INDUSTRIALES"
+  ],
+  [
+    478,
+    "Energy should follow your production schedule.",
+    "La energía debe seguir el ritmo de su producción."
+  ],
+  [
+    479,
+    "Shifts, different production areas and on-site generation create a complex consumption profile. A manual battery schedule does not always match the actual load.",
+    "Los turnos, las distintas áreas y la generación propia crean un perfil de consumo complejo. Un horario manual de la batería no siempre coincide con la demanda real."
+  ],
+  [
+    480,
+    "Energy manager · technical director · finance lead",
+    "Responsable de energía · dirección técnica · dirección financiera"
+  ],
+  [
+    481,
+    "One view of incoming supplies, generation and assets. A BESS operating plan based on the production profile, tariff and agreed reserve.",
+    "Una visión unificada de las acometidas, la generación y los activos. Un plan de operación del BESS basado en el perfil productivo, la tarifa y la reserva acordada."
+  ],
+  [
+    482,
+    "Use solar PV for self-consumption and shift some energy purchases between hours, without interfering with the production process.",
+    "Aprovechar la energía FV para autoconsumo y trasladar parte de las compras entre horas, sin intervenir en el proceso productivo."
+  ],
+  [
+    483,
+    "Hourly consumption profile, shift schedule, solar PV/BESS capacity, connection limits and available interfaces.",
+    "Perfil de consumo horario, turnos, potencia FV y del BESS, límites de conexión e interfaces disponibles."
+  ],
+  [
+    484,
+    "LOGISTICS AND COLD CHAINS",
+    "LOGÍSTICA Y CADENAS DE FRÍO"
+  ],
+  [
+    485,
+    "Cooling cannot wait. Align reserve and costs.",
+    "El frío no puede esperar. Coordine la reserva y los costes."
+  ],
+  [
+    486,
+    "Cold stores and warehouses have sustained loads. Economical battery operation must account for critical consumption and backup reserve.",
+    "Los almacenes y los complejos frigoríficos tienen una demanda sostenida. La operación económica de la batería debe tener en cuenta el consumo crítico y la reserva para autonomía."
+  ],
+  [
+    487,
+    "Facility manager · energy manager · operations team",
+    "Dirección del centro · responsable de energía · equipo de operación"
+  ],
+  [
+    488,
+    "Meter refrigeration loads and the overall energy balance. See BESS status clearly and plan its use with a separate reserve constraint.",
+    "Medición de las cargas frigoríficas y del balance energético general. Visibilidad del estado del BESS y un escenario de uso con una restricción independiente de reserva."
+  ],
+  [
+    489,
+    "Solar PV covers daytime load, while BESS shifts some purchases to more favourable hours. Backup autonomy is assessed separately rather than assumed.",
+    "La instalación FV cubre la demanda diurna y el BESS traslada parte de las compras a horas más favorables. La autonomía se evalúa por separado; no se da por garantizada."
+  ],
+  [
+    490,
+    "Critical load, required backup duration, inverter power, battery capacity and actual operating conditions.",
+    "Demanda crítica, autonomía requerida, potencia del inversor, capacidad de la batería y condiciones reales de operación."
+  ],
+  [
+    491,
+    "AGRICULTURE AND PROCESSING",
+    "AGRICULTURA Y TRANSFORMACIÓN"
+  ],
+  [
+    492,
+    "Seasonal loads need a flexible plan.",
+    "La demanda estacional necesita un plan flexible."
+  ],
+  [
+    493,
+    "Consumption at a grain storage or processing facility changes during the season. Year-round fixed settings may not match actual operation.",
+    "El consumo de un silo o una planta de transformación cambia durante la campaña. Una configuración fija para todo el año puede no corresponder a la operación real."
+  ],
+  [
+    494,
+    "Business owner · chief engineer · energy manager",
+    "Propiedad de la empresa · ingeniería jefe · responsable de energía"
+  ],
+  [
+    495,
+    "Consumption history by period, comparison with generation and planning of available energy assets around the seasonal profile.",
+    "Historial de consumo por períodos, comparación con la generación y planificación de los activos energéticos según el perfil estacional."
+  ],
+  [
+    496,
+    "On-site solar energy for daytime processes, BESS charging during agreed periods and discharging to meet site needs. Production lines are not switched without a separate engineering project.",
+    "Energía solar propia para los procesos diurnos, carga del BESS en los períodos acordados y descarga según las necesidades de la instalación. La conmutación de líneas de producción requiere un proyecto técnico específico."
+  ],
+  [
+    497,
+    "Seasonal schedules, main equipment operating patterns, generation sources, tariff and metering capabilities.",
+    "Horarios estacionales, operación de los equipos principales, fuentes de generación, tarifa y posibilidades de medición."
+  ],
+  [
+    498,
+    "RETAIL AND SHOPPING FACILITIES",
+    "COMERCIO Y CENTROS COMERCIALES"
+  ],
+  [
+    499,
+    "Align daytime generation with evening consumption.",
+    "Coordine la generación diurna con el consumo de la tarde."
+  ],
+  [
+    500,
+    "Solar generation, refrigeration, lighting and evening activity create different load profiles. Data often remains in separate systems.",
+    "La generación solar, la refrigeración, la iluminación y la actividad vespertina crean distintos perfiles de demanda. Los datos suelen permanecer en sistemas separados."
+  ],
+  [
+    501,
+    "Site director · network energy manager · finance manager",
+    "Dirección del centro · responsable de energía de la red · responsable financiero"
+  ],
+  [
+    502,
+    "An energy balance, period comparisons and a BESS usage plan. Executives see the cost breakdown; engineers see the conditions and scenario limits.",
+    "Balance energético, comparación de períodos y plan de uso del BESS. La dirección ve el desglose de costes; el equipo técnico, las condiciones y los límites del escenario."
+  ],
+  [
+    503,
+    "Use on-site generation and displace some expensive evening purchases when the tariff and load profile make it economical.",
+    "Aprovechar la generación propia y sustituir parte de las compras caras de la tarde cuando la tarifa y la demanda lo hagan económicamente viable."
+  ],
+  [
+    504,
+    "Opening hours, daytime and evening load, metering diagram, tariff, existing solar PV and storage.",
+    "Horario de actividad, demanda diurna y vespertina, esquema de medición, tarifa e instalación FV y almacenamiento existentes."
+  ],
+  [
+    505,
+    "COMMERCIAL PROPERTY",
+    "INMUEBLES COMERCIALES"
+  ],
+  [
+    506,
+    "Turn scattered readings into a building-wide balance.",
+    "Convierta mediciones dispersas en un balance del edificio."
+  ],
+  [
+    507,
+    "Multiple incoming supplies, shared areas and different user schedules complicate energy metering in offices, hotels and complexes.",
+    "Varias acometidas, zonas comunes y distintos horarios de uso complican la medición energética en oficinas, hoteles y complejos."
+  ],
+  [
+    508,
+    "Property management · operations team · property owner",
+    "Gestión del inmueble · equipo de operación · propiedad"
+  ],
+  [
+    509,
+    "Energy metering at agreed points, generation and consumption history, and period comparisons. Where controllable assets are available, add a separate optimisation module.",
+    "Medición energética en los puntos acordados, historial de generación y consumo y comparación de períodos. Si hay activos controlables, puede añadirse un módulo independiente de optimización."
+  ],
+  [
+    510,
+    "Start with data collection and deviation monitoring. After assessing the profile, add an agreed solar PV and BESS operating plan.",
+    "Empezar por recopilar datos y controlar las desviaciones. Tras evaluar el perfil, añadir un plan acordado de operación de la instalación FV y el BESS."
+  ],
+  [
+    511,
+    "Incoming supply diagram, meter inventory, shared loads and interfaces. Energy submetering does not replace tenant billing.",
+    "Esquema de acometidas, inventario de contadores, cargas comunes e interfaces. La medición energética interna no sustituye la facturación a los arrendatarios."
+  ],
+  [
+    512,
+    "MULTI-SITE PORTFOLIOS",
+    "GRUPOS DE INSTALACIONES"
+  ],
+  [
+    513,
+    "A shared approach to assessment. Site-specific rules.",
+    "Un criterio común de evaluación. Reglas propias para cada instalación."
+  ],
+  [
+    514,
+    "Separate apps, different inverters and varying tariffs make it harder to compare sites and identify the causes of deviations.",
+    "Las aplicaciones separadas, los distintos inversores y las tarifas diferentes dificultan la comparación entre instalaciones y la identificación de las causas de las desviaciones."
+  ],
+  [
+    515,
+    "Group energy manager · technical director · network director",
+    "Responsable de energía del grupo · dirección técnica · dirección de la red"
+  ],
+  [
+    516,
+    "A consistent approach to collecting readings, analysing periods and defining scenarios. The scope of consolidation and integrations is specified in the project.",
+    "Un enfoque común para recopilar mediciones, analizar períodos y definir escenarios. El alcance de la consolidación y las integraciones se fija en el proyecto."
+  ],
+  [
+    517,
+    "Pilot at one site and validate the data and impact. Then roll out the agreed solution, accounting for each site's specific conditions.",
+    "Realizar un piloto en una instalación y verificar los datos y el efecto. Después, ampliar la solución acordada teniendo en cuenta las particularidades de cada instalación."
+  ],
+  [
+    518,
+    "Site inventory, device models, access permissions, data quality and tariffs. Centralised control capability is verified separately.",
+    "Inventario de instalaciones, modelos de dispositivos, permisos de acceso, calidad de datos y tarifas. La posibilidad de control centralizado se verifica por separado."
+  ],
+  [
+    519,
+    "Daily scenario paused.",
+    "Escenario diario en pausa."
+  ],
+  [
+    520,
+    "Hour selected manually. Explore the decision for that hour.",
+    "Hora seleccionada manualmente. Consulte la decisión correspondiente."
+  ],
+  [
+    521,
+    "Daily scenario: one automatic pass from 00:00 to 23:00.",
+    "Escenario diario: un único recorrido automático de 00:00 a 23:00."
+  ],
+  [
+    522,
+    "The day is complete. Select any hour to explore its decision.",
+    "El recorrido ha terminado. Seleccione una hora para consultar su decisión."
+  ],
+  [
+    523,
+    "Select an hour to explore its decision. Autoplay is off according to your motion preferences.",
+    "Seleccione una hora para consultar su decisión. La reproducción automática está desactivada según sus preferencias de movimiento."
+  ],
+  [
+    524,
+    "Enable animations",
+    "Activar las animaciones"
+  ],
+  [
+    525,
+    "Grid → load and BESS charging",
+    "Red → demanda y carga del BESS"
+  ],
+  [
+    526,
+    "Solar PV + BESS discharge → load",
+    "FV + descarga del BESS → demanda"
+  ],
+  [
+    527,
+    "Discharging ",
+    "Descarga de "
+  ],
+  [
+    528,
+    "Charging ",
+    "Carga de "
+  ],
+  [
+    529,
+    "Balance: ${0} = ${1} + ${2} kW",
+    "Balance: ${0} = ${1} + ${2} kW"
+  ],
+  [
+    530,
+    "Balance: ${0} + ${1} = ${2} kW",
+    "Balance: ${0} + ${1} = ${2} kW"
+  ],
+  [
+    531,
+    "Grid: ${0} kW. Load: ${1} kW. BESS charging: ${2} kW.",
+    "Red: ${0} kW. Demanda: ${1} kW. Carga del BESS: ${2} kW."
+  ],
+  [
+    532,
+    "Solar PV: ${0} kW. Load: ${1} kW. BESS charging: ${2} kW.",
+    "FV: ${0} kW. Demanda: ${1} kW. Carga del BESS: ${2} kW."
+  ],
+  [
+    533,
+    "Solar PV: ${0} kW. BESS discharge: ${1} kW. Load: ${2} kW.",
+    "FV: ${0} kW. Descarga del BESS: ${1} kW. Demanda: ${2} kW."
+  ],
+  [
+    534,
+    " Figures for two illustrative sites are summed; both batteries have the same capacity and SoC.",
+    " Se suman los valores de dos instalaciones ilustrativas; ambas baterías tienen la misma capacidad y SoC."
+  ],
+  [
+    535,
+    " A separate educational profile for a logistics site.",
+    " Un perfil didáctico independiente de una instalación logística."
+  ],
+  [
+    536,
+    "Selected: ",
+    "Seleccionado: "
+  ],
+  [
+    537,
+    "assessment",
+    "evaluación"
+  ],
+  [
+    538,
+    "modelling",
+    "modelado"
+  ],
+  [
+    539,
+    "integration",
+    "integración"
+  ],
+  [
+    540,
+    "operation",
+    "operación"
+  ],
+  [
+    541,
+    "Back to the first stage",
+    "Volver a la primera etapa"
+  ],
+  [
+    542,
+    "${0} of 4 selected. Your selection stays on this page and is not sent anywhere.",
+    "${0} de 4 seleccionados. La selección permanece en esta página y no se envía a ningún destino."
+  ],
+  [
+    543,
+    "Operion OS enquiry\n\nName: ${0}\nCompany: ${1}\nContact: ${2}\n\nAbout the site:\n${3}",
+    "Consulta sobre Operion OS\n\nNombre: ${0}\nEmpresa: ${1}\nContacto: ${2}\n\nSobre la instalación:\n${3}"
+  ],
+  [
+    544,
+    "Operion OS — site enquiry",
+    "Operion OS: consulta sobre la instalación"
+  ],
+  [
+    545,
+    "Your draft is ready. Send it from your email app.",
+    "El borrador está preparado. Envíelo desde su aplicación de correo."
+  ],
+  [
+    546,
+    "Sending your enquiry…",
+    "Enviando su consulta…"
+  ],
+  [
+    547,
+    "Please check your name, company, contact details and description.",
+    "Revise su nombre, empresa, datos de contacto y descripción."
+  ],
+  [
+    548,
+    "Too many attempts. Please try again later or email us directly.",
+    "Demasiados intentos. Inténtelo más tarde o escríbanos directamente."
+  ],
+  [
+    549,
+    "Your enquiry could not be sent. Please try again later or email fusioeng@gmail.com.",
+    "No se ha podido enviar su consulta. Inténtelo más tarde o escriba a fusioeng@gmail.com."
+  ],
+  [
+    550,
+    "Your enquiry has been accepted for sending. Thank you — we will use the contact details you provided.",
+    "Su consulta se ha aceptado para su envío. Gracias; nos pondremos en contacto a través de los datos que ha indicado."
+  ],
+  [
+    551,
+    "Your enquiry could not be sent. Your text is still in the form. Try again or email fusioeng@gmail.com.",
+    "No se ha podido enviar su consulta. El texto se conserva en el formulario. Inténtelo de nuevo o escriba a fusioeng@gmail.com."
+  ],
+  [
+    552,
+    "Copied ✓",
+    "Copiado ✓"
+  ],
+  [
+    553,
+    "Text selected — press Ctrl+C",
+    "Texto seleccionado: pulse Ctrl+C"
+  ],
+  [
+    424,
+    "Energy. Insight. Control.",
+    "Energía. Análisis. Control."
+  ]
+]

@@ -1,0 +1,972 @@
+[
+  [
+    0,
+    "Operion OS — manage your business's solar generation, battery storage and electricity use. Energy metering, optimisation scenarios, reserve control and asset economics.",
+    "Operion OS: gestione la generación solar, el almacenamiento y el consumo eléctrico de su empresa. Medición energética, escenarios de optimización, control de reservas y análisis económico de los activos."
+  ],
+  [
+    1,
+    "Operion OS — business energy management software",
+    "Operion OS — software de gestión energética para empresas"
+  ],
+  [
+    2,
+    "Skip to content",
+    "Ir al contenido"
+  ],
+  [
+    3,
+    "Operion — home",
+    "Operion — inicio"
+  ],
+  [
+    5,
+    "by Fusion Engineering",
+    "por Fusion Engineering"
+  ],
+  [
+    6,
+    "Main navigation",
+    "Navegación principal"
+  ],
+  [
+    8,
+    "Platform",
+    "Plataforma"
+  ],
+  [
+    9,
+    "Who it is for",
+    "Sectores"
+  ],
+  [
+    10,
+    "Solutions",
+    "Soluciones"
+  ],
+  [
+    11,
+    "Implementation",
+    "Implementación"
+  ],
+  [
+    12,
+    "Let's discuss your site",
+    "Hablemos de su instalación"
+  ],
+  [
+    13,
+    "Find the right starting point",
+    "Definamos por dónde empezar"
+  ],
+  [
+    14,
+    "Open menu",
+    "Abrir menú"
+  ],
+  [
+    15,
+    "ENERGY MANAGEMENT SOFTWARE",
+    "SOFTWARE DE GESTIÓN ENERGÉTICA"
+  ],
+  [
+    16,
+    "Your business's energy.",
+    "La energía de su empresa."
+  ],
+  [
+    17,
+    "Managed through",
+    "Gestionada desde"
+  ],
+  [
+    18,
+    "one platform.",
+    "una sola plataforma."
+  ],
+  [
+    19,
+    "Operion OS is software for businesses with solar generation, battery storage and complex energy metering. One interface for energy balance, asset schedules, control rules and financial performance.",
+    "Operion OS es una solución de software para empresas con generación fotovoltaica, almacenamiento en baterías y sistemas de medición complejos. Un solo entorno para el balance energético, la programación de activos, las reglas de control y el resultado económico."
+  ],
+  [
+    20,
+    "Find a solution for your business",
+    "Encuentre una solución para su empresa"
+  ],
+  [
+    21,
+    "About the platform ↓",
+    "Conozca la plataforma ↓"
+  ],
+  [
+    22,
+    "ENERGY METERING",
+    "MEDICIÓN ENERGÉTICA"
+  ],
+  [
+    23,
+    "SOLAR + BESS OPTIMISATION",
+    "OPTIMIZACIÓN FV + BESS"
+  ],
+  [
+    24,
+    "CONTROL RULES",
+    "REGLAS DE CONTROL"
+  ],
+  [
+    25,
+    "ENERGY SYSTEM CONCEPT · AI-GENERATED ILLUSTRATION",
+    "CONCEPTO DE SISTEMA ENERGÉTICO · ILUSTRACIÓN GENERADA"
+  ],
+  [
+    26,
+    "OPERION OS / ENERGY WORKSPACE",
+    "OPERION OS / ENTORNO ENERGÉTICO"
+  ],
+  [
+    27,
+    "INTERACTIVE DEMO · NOT CUSTOMER DATA",
+    "DEMOSTRACIÓN INTERACTIVA · NO SON DATOS DE CLIENTES"
+  ],
+  [
+    29,
+    "ENERGY OPERATING SYSTEM",
+    "SISTEMA DE GESTIÓN ENERGÉTICA"
+  ],
+  [
+    30,
+    "MAIN DASHBOARD",
+    "PANEL PRINCIPAL"
+  ],
+  [
+    31,
+    "Client dashboard",
+    "Panel del cliente"
+  ],
+  [
+    32,
+    "OPERION OS PLATFORM",
+    "PLATAFORMA OPERION OS"
+  ],
+  [
+    33,
+    "Module catalogue",
+    "Catálogo de módulos"
+  ],
+  [
+    34,
+    "Integration diagnostics",
+    "Diagnóstico de integraciones"
+  ],
+  [
+    35,
+    "DATA AND MONITORING",
+    "DATOS Y MONITORIZACIÓN"
+  ],
+  [
+    36,
+    "Energy metering",
+    "Medición energética"
+  ],
+  [
+    37,
+    "Scenario log",
+    "Registro del escenario"
+  ],
+  [
+    38,
+    "Scenarios and analytics",
+    "Escenarios y análisis"
+  ],
+  [
+    39,
+    "Reserve and constraints",
+    "Reserva y restricciones"
+  ],
+  [
+    40,
+    "OPTIMISATION",
+    "OPTIMIZACIÓN"
+  ],
+  [
+    41,
+    "Daily asset schedule",
+    "Programación diaria de activos"
+  ],
+  [
+    42,
+    "Control rules",
+    "Reglas de control"
+  ],
+  [
+    43,
+    "Operion OS interface",
+    "Interfaz de Operion OS"
+  ],
+  [
+    44,
+    "Concept demonstration",
+    "Demostración conceptual"
+  ],
+  [
+    45,
+    "No equipment connected",
+    "Sin conexión a equipos"
+  ],
+  [
+    46,
+    "Demonstration site",
+    "Instalación de demostración"
+  ],
+  [
+    47,
+    "Industrial site",
+    "Instalación industrial"
+  ],
+  [
+    48,
+    "Logistics site",
+    "Centro logístico"
+  ],
+  [
+    49,
+    "Portfolio · 2 sites",
+    "Cartera · 2 instalaciones"
+  ],
+  [
+    50,
+    "Demo",
+    "Demo"
+  ],
+  [
+    51,
+    "Recommendations",
+    "Recomendaciones"
+  ],
+  [
+    52,
+    "View the demonstration scenario log",
+    "Ver el registro del escenario de demostración"
+  ],
+  [
+    53,
+    "Demonstration profile",
+    "Perfil de demostración"
+  ],
+  [
+    54,
+    "SITE / 01",
+    "INSTALACIÓN / 01"
+  ],
+  [
+    55,
+    "Energy balance",
+    "Balance energético"
+  ],
+  [
+    56,
+    "DEMO MODE",
+    "MODO DEMO"
+  ],
+  [
+    57,
+    "Solar generation",
+    "Generación fotovoltaica"
+  ],
+  [
+    58,
+    "kW",
+    "kW"
+  ],
+  [
+    59,
+    "Site consumption",
+    "Consumo de la instalación"
+  ],
+  [
+    60,
+    "Grid electricity purchase",
+    "Compra de energía de la red"
+  ],
+  [
+    61,
+    "BESS state of charge",
+    "Estado de carga del BESS"
+  ],
+  [
+    62,
+    "Agreed reserve: 20%",
+    "Reserva acordada: 20 %"
+  ],
+  [
+    63,
+    "Energy flows",
+    "Flujos de energía"
+  ],
+  [
+    64,
+    "12:00 / DAYTIME",
+    "12:00 / DÍA"
+  ],
+  [
+    65,
+    "Energy system managed with Operion OS",
+    "Sistema energético gestionado con Operion OS"
+  ],
+  [
+    66,
+    "Solar generates 240 kW: the site uses 180 kW and 60 kW charges the battery. Grid purchase: 0 kW.",
+    "La instalación fotovoltaica genera 240 kW: el centro consume 180 kW y 60 kW cargan la batería. Compra de la red: 0 kW."
+  ],
+  [
+    67,
+    "SOLAR PV",
+    "INSTALACIÓN FV"
+  ],
+  [
+    68,
+    "240 kW",
+    "240 kW"
+  ],
+  [
+    69,
+    "BUSINESS SITE",
+    "INSTALACIÓN"
+  ],
+  [
+    70,
+    "180 kW",
+    "180 kW"
+  ],
+  [
+    71,
+    "GRID",
+    "RED"
+  ],
+  [
+    72,
+    "0 kW",
+    "0 kW"
+  ],
+  [
+    73,
+    "BATTERY STORAGE",
+    "ALMACENAMIENTO"
+  ],
+  [
+    74,
+    "Charging: 60 kW",
+    "Carga: 60 kW"
+  ],
+  [
+    75,
+    "Demonstration time of day",
+    "Periodo del día de demostración"
+  ],
+  [
+    76,
+    "01 / Night",
+    "01 / Noche"
+  ],
+  [
+    77,
+    "02 / Day",
+    "02 / Día"
+  ],
+  [
+    78,
+    "03 / Peak",
+    "03 / Punta"
+  ],
+  [
+    79,
+    "Start automatic scenario playback",
+    "Iniciar la reproducción automática de escenarios"
+  ],
+  [
+    80,
+    "▶ Auto-play",
+    "▶ Reproducción automática"
+  ],
+  [
+    81,
+    "SCENARIO LOGIC",
+    "LÓGICA DEL ESCENARIO"
+  ],
+  [
+    82,
+    "ON-SITE GENERATION",
+    "GENERACIÓN PROPIA"
+  ],
+  [
+    83,
+    "Use solar energy.",
+    "Aproveche la energía solar."
+  ],
+  [
+    84,
+    "Store the surplus.",
+    "Almacene el excedente."
+  ],
+  [
+    85,
+    "Generation exceeds current demand. The surplus charges the BESS.",
+    "La generación supera la demanda actual. El excedente se destina a cargar el BESS."
+  ],
+  [
+    86,
+    "Minimum state of charge",
+    "Estado de carga mínimo"
+  ],
+  [
+    87,
+    "Agreed backup reserve",
+    "Reserva de respaldo acordada"
+  ],
+  [
+    88,
+    "Explore the hourly schedule ↗",
+    "Explore la programación horaria ↗"
+  ],
+  [
+    89,
+    "DEMONSTRATION LOG",
+    "REGISTRO DE DEMOSTRACIÓN"
+  ],
+  [
+    90,
+    "Surplus solar → BESS charging",
+    "Excedente FV → carga del BESS"
+  ],
+  [
+    91,
+    "This entry changes with the scenario. It is not a real equipment log.",
+    "La entrada cambia con el escenario. No es un registro de equipos reales."
+  ],
+  [
+    92,
+    "Mode:",
+    "Modo:"
+  ],
+  [
+    93,
+    "recommendations",
+    "recomendaciones"
+  ],
+  [
+    94,
+    "Balance: 240 = 180 + 60 kW",
+    "Balance: 240 = 180 + 60 kW"
+  ],
+  [
+    95,
+    "No commands are sent to equipment",
+    "No se envían órdenes a equipos"
+  ],
+  [
+    96,
+    "From equipment readings to a clear course of action.",
+    "De las lecturas de los equipos a una decisión clara."
+  ],
+  [
+    97,
+    "Overview → planning → control → results",
+    "Visión general → planificación → control → resultados"
+  ],
+  [
+    98,
+    "01 / VISIBILITY",
+    "01 / VISIBILIDAD"
+  ],
+  [
+    99,
+    "Data from every metering point",
+    "Datos de cada punto de medición"
+  ],
+  [
+    100,
+    "02 / ECONOMICS",
+    "02 / ECONOMÍA"
+  ],
+  [
+    101,
+    "Decisions grounded in economics",
+    "Decisiones con criterio económico"
+  ],
+  [
+    102,
+    "03 / CONTROL",
+    "03 / CONTROL"
+  ],
+  [
+    103,
+    "Your rules and constraints",
+    "Sus reglas y restricciones"
+  ],
+  [
+    104,
+    "BUILT FOR YOUR SECTOR",
+    "PARA SU SECTOR"
+  ],
+  [
+    105,
+    "More than energy.",
+    "Más que energía."
+  ],
+  [
+    106,
+    "Your business's priorities.",
+    "Las prioridades de su empresa."
+  ],
+  [
+    107,
+    "Select your sector to see the operational challenge the platform can help address and where to begin the assessment.",
+    "Seleccione su sector para conocer el reto operativo que la plataforma ayuda a resolver y por dónde comenzar la evaluación."
+  ],
+  [
+    108,
+    "SELECT YOUR BUSINESS SECTOR",
+    "SELECCIONE SU SECTOR"
+  ],
+  [
+    109,
+    "Swipe and select",
+    "Deslice y seleccione"
+  ],
+  [
+    110,
+    "Business sector",
+    "Sector de actividad"
+  ],
+  [
+    111,
+    "LOAD PROFILE",
+    "PERFIL DE DEMANDA"
+  ],
+  [
+    112,
+    "Manufacturing",
+    "Industria"
+  ],
+  [
+    113,
+    "Plants, factories and workshops",
+    "Plantas, fábricas y talleres"
+  ],
+  [
+    114,
+    "CRITICAL DEMAND",
+    "DEMANDA CRÍTICA"
+  ],
+  [
+    115,
+    "Warehouses and cold chains",
+    "Almacenes y cadena de frío"
+  ],
+  [
+    116,
+    "Logistics and refrigerated facilities",
+    "Logística e instalaciones frigoríficas"
+  ],
+  [
+    117,
+    "SEASONAL GENERATION",
+    "GENERACIÓN ESTACIONAL"
+  ],
+  [
+    118,
+    "Agribusiness",
+    "Agroindustria"
+  ],
+  [
+    119,
+    "Grain facilities, farms and processing",
+    "Silos, explotaciones y transformación"
+  ],
+  [
+    120,
+    "EVENING DEMAND",
+    "DEMANDA VESPERTINA"
+  ],
+  [
+    121,
+    "Retail and shopping facilities",
+    "Comercios y centros comerciales"
+  ],
+  [
+    122,
+    "Shops, supermarkets and shopping centres",
+    "Tiendas, supermercados y centros comerciales"
+  ],
+  [
+    123,
+    "BUILDING ENERGY BALANCE",
+    "BALANCE ENERGÉTICO DEL EDIFICIO"
+  ],
+  [
+    124,
+    "Commercial property",
+    "Inmuebles comerciales"
+  ],
+  [
+    125,
+    "Offices, hotels and mixed-use buildings",
+    "Oficinas, hoteles y complejos"
+  ],
+  [
+    126,
+    "SHARED CONTEXT",
+    "CONTEXTO COMPARTIDO"
+  ],
+  [
+    127,
+    "Multi-site businesses",
+    "Empresas con múltiples instalaciones"
+  ],
+  [
+    128,
+    "Multiple sites and metering points",
+    "Varias instalaciones y puntos de medición"
+  ],
+  [
+    129,
+    "Generated illustrations of business scenarios. Animations explain the concept; they do not show real site readings.",
+    "Ilustraciones generadas de escenarios empresariales. Las animaciones explican el concepto; no muestran mediciones de instalaciones reales."
+  ],
+  [
+    130,
+    "WHO USES IT",
+    "USUARIOS DEL EQUIPO"
+  ],
+  [
+    131,
+    "WHAT THE SOFTWARE PROVIDES",
+    "QUÉ APORTA EL SOFTWARE"
+  ],
+  [
+    132,
+    "SCENARIO TO EXPLORE",
+    "ESCENARIO QUE EVALUAMOS"
+  ],
+  [
+    133,
+    "WHAT WE NEED TO CHECK",
+    "QUÉ DEBEMOS VERIFICAR"
+  ],
+  [
+    134,
+    "Discuss this site ↗",
+    "Hablemos de esta instalación ↗"
+  ],
+  [
+    135,
+    "When is it worth starting?",
+    "¿Cuándo tiene sentido empezar?"
+  ],
+  [
+    136,
+    "You have solar PV, battery storage or several metering points, but energy decisions are still made manually. Optimisation requires usable data, technical access and tariffs that make the scenario economically viable. A conventional office with one meter and no controllable assets may only need a simpler solution.",
+    "Dispone de generación fotovoltaica, baterías o varios puntos de medición, pero las decisiones energéticas siguen siendo manuales. Para optimizar se necesitan datos utilizables, acceso técnico y unas tarifas que hagan viable el escenario. Para una oficina con un único contador y sin activos controlables puede bastar una solución más sencilla."
+  ],
+  [
+    137,
+    "01 / OPERATING WORKFLOW",
+    "01 / FLUJO OPERATIVO"
+  ],
+  [
+    138,
+    "The equipment is already there.",
+    "Los equipos ya están."
+  ],
+  [
+    139,
+    "Add a decision-making system.",
+    "Añada un sistema para decidir."
+  ],
+  [
+    140,
+    "Solar generates. BESS stores. The meter records.",
+    "La fotovoltaica genera. El BESS almacena. El contador mide."
+  ],
+  [
+    141,
+    "Operion OS helps coordinate how they work.",
+    "Operion OS ayuda a coordinar su funcionamiento."
+  ],
+  [
+    142,
+    "From isolated readings to shared context for the energy manager, engineer and executive. Data, planning and execution tracking in one workflow.",
+    "De lecturas aisladas a un contexto compartido para el responsable energético, el ingeniero y la dirección. Datos, planificación y seguimiento de la ejecución en un mismo flujo."
+  ],
+  [
+    143,
+    "How the platform works: data collection, context, action plan and monitoring",
+    "Cómo funciona la plataforma: recopilación de datos, contexto, plan de acción y seguimiento"
+  ],
+  [
+    144,
+    "DATA",
+    "DATOS"
+  ],
+  [
+    145,
+    "Collect readings",
+    "Recopilar mediciones"
+  ],
+  [
+    146,
+    "Meters, inverters and BMS — agreed site data sources.",
+    "Contadores, inversores y BMS: fuentes de datos acordadas para la instalación."
+  ],
+  [
+    147,
+    "METERING / GENERATION / STATUS",
+    "MEDICIÓN / GENERACIÓN / ESTADO"
+  ],
+  [
+    148,
+    "CONTEXT",
+    "CONTEXTO"
+  ],
+  [
+    149,
+    "SOLAR PV",
+    "FV"
+  ],
+  [
+    151,
+    "See the energy balance",
+    "Visualizar el balance"
+  ],
+  [
+    152,
+    "Match generation and consumption with the site's operating conditions.",
+    "Relacionar la generación y el consumo con las condiciones de la instalación."
+  ],
+  [
+    153,
+    "DEMAND / TARIFF / LIMITS",
+    "DEMANDA / TARIFA / LÍMITES"
+  ],
+  [
+    154,
+    "PLAN",
+    "PLAN"
+  ],
+  [
+    155,
+    "NIGHT",
+    "NOCHE"
+  ],
+  [
+    156,
+    "DAY",
+    "DÍA"
+  ],
+  [
+    157,
+    "PEAK",
+    "PUNTA"
+  ],
+  [
+    158,
+    "Prepare an action plan",
+    "Preparar un plan de acción"
+  ],
+  [
+    159,
+    "Choose a feasible charging, discharging and self-consumption scenario.",
+    "Elegir un escenario viable de carga, descarga y autoconsumo."
+  ],
+  [
+    160,
+    "FORECAST / SCENARIO / SCHEDULE",
+    "PREVISIÓN / ESCENARIO / PROGRAMA"
+  ],
+  [
+    161,
+    "CONTROL",
+    "CONTROL"
+  ],
+  [
+    162,
+    "RESERVE",
+    "RESERVA"
+  ],
+  [
+    163,
+    "LIMITS",
+    "LÍMITES"
+  ],
+  [
+    164,
+    "Keep operations under control",
+    "Mantener el control operativo"
+  ],
+  [
+    165,
+    "Track execution within the agreed operating mode and reserve.",
+    "Supervisar la ejecución dentro del modo de funcionamiento y la reserva acordados."
+  ],
+  [
+    166,
+    "RULES / PLAN VS ACTUAL / VARIANCE",
+    "REGLAS / PLAN Y REALIDAD / DESVIACIONES"
+  ],
+  [
+    167,
+    "Illustration of the workflow. Data sources and available commands are checked for each site.",
+    "Ilustración del flujo de trabajo. Las fuentes de datos y las órdenes disponibles se verifican para cada instalación."
+  ],
+  [
+    168,
+    "MODULE / 01",
+    "MÓDULO / 01"
+  ],
+  [
+    169,
+    "See the full picture",
+    "Vea la situación completa"
+  ],
+  [
+    170,
+    "Energy metering for consumption and generation: metering points, historical readings and the site's energy balance.",
+    "Medición del consumo y la generación: puntos de medición, historial de lecturas y balance energético de la instalación."
+  ],
+  [
+    171,
+    "Meter and inverter data",
+    "Datos de contadores e inversores"
+  ],
+  [
+    172,
+    "Consumption by supply point and period",
+    "Consumo por acometida y periodo"
+  ],
+  [
+    173,
+    "Variance tracking and reporting",
+    "Seguimiento de desviaciones e informes"
+  ],
+  [
+    174,
+    "FROM READINGS TO SHARED DATA",
+    "DE LAS MEDICIONES A LOS DATOS COMPARTIDOS"
+  ],
+  [
+    175,
+    "MODULE / 02",
+    "MÓDULO / 02"
+  ],
+  [
+    176,
+    "Operate to an agreed plan",
+    "Opere conforme a un plan acordado"
+  ],
+  [
+    177,
+    "A coordinated generation, charging and discharging schedule that accounts for prices, technical limits and reserves.",
+    "Una programación coordinada de generación, carga y descarga que considera los precios, los límites técnicos y la reserva."
+  ],
+  [
+    178,
+    "Battery storage scheduling",
+    "Programación del almacenamiento"
+  ],
+  [
+    179,
+    "Recommendations or command execution",
+    "Recomendaciones o ejecución de órdenes"
+  ],
+  [
+    180,
+    "Results and variance analysis",
+    "Análisis de resultados y desviaciones"
+  ],
+  [
+    181,
+    "FROM MANUAL SCHEDULES TO A COORDINATED SCENARIO",
+    "DE LA PROGRAMACIÓN MANUAL A UN ESCENARIO COORDINADO"
+  ],
+  [
+    182,
+    "FOR THE WHOLE TEAM",
+    "PARA TODO EL EQUIPO"
+  ],
+  [
+    183,
+    "One platform.",
+    "Una plataforma."
+  ],
+  [
+    184,
+    "Three working perspectives.",
+    "Tres perspectivas de trabajo."
+  ],
+  [
+    185,
+    "Shared data, different responsibilities. Each role gets the context needed to make its decisions.",
+    "Datos compartidos, responsabilidades distintas. Cada perfil obtiene el contexto que necesita para decidir."
+  ],
+  [
+    186,
+    "For the energy manager",
+    "Responsable energético"
+  ],
+  [
+    187,
+    "A plan that reflects",
+    "Un plan adaptado"
+  ],
+  [
+    188,
+    "how your site operates.",
+    "al funcionamiento de su instalación."
+  ],
+  [
+    189,
+    "Generation and consumption balance.",
+    "Balance de generación y consumo."
+  ],
+  [
+    190,
+    "An agreed asset operating schedule.",
+    "Programación de activos acordada."
+  ],
+  [
+    191,
+    "GENERATION / CONSUMPTION",
+    "GENERACIÓN / CONSUMO"
+  ],
+  [
+    192,
+    "AGREED DAILY SCHEDULE",
+    "PROGRAMA DIARIO ACORDADO"
+  ],
+  [
+    193,
+    "For the engineer",
+    "Ingeniería"
+  ],
+  [
+    194,
+    "Understand the status.",
+    "Conozca el estado."
+  ],
+  [
+    195,
+    "Keep limits under control.",
+    "Controle los límites."
+  ],
+  [
+    196,
+    "Asset status and data availability.",
+    "Estado de los activos y disponibilidad de datos."
+  ],
+  [
+    197,
+    "Reserve and technical limits.",
+    "Reserva y límites técnicos."
+  ]
+]

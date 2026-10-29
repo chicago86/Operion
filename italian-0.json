@@ -1,0 +1,774 @@
+[
+  [
+    0,
+    "Operion OS: gestisci la generazione solare, l’accumulo e i consumi elettrici della tua azienda. Monitoraggio energetico, scenari di ottimizzazione, controllo della riserva e analisi economica degli asset."
+  ],
+  [
+    1,
+    "Operion OS — piattaforma per la gestione energetica delle imprese"
+  ],
+  [
+    2,
+    "Vai al contenuto"
+  ],
+  [
+    3,
+    "Operion — pagina iniziale"
+  ],
+  [
+    5,
+    "by Fusion Engineering"
+  ],
+  [
+    6,
+    "Navigazione principale"
+  ],
+  [
+    8,
+    "Piattaforma"
+  ],
+  [
+    9,
+    "A chi si rivolge"
+  ],
+  [
+    10,
+    "Soluzioni"
+  ],
+  [
+    11,
+    "Implementazione"
+  ],
+  [
+    12,
+    "Parliamo del tuo sito"
+  ],
+  [
+    13,
+    "Troviamo il punto da cui iniziare"
+  ],
+  [
+    14,
+    "Apri il menu"
+  ],
+  [
+    15,
+    "SOFTWARE PER LA GESTIONE DELL’ENERGIA"
+  ],
+  [
+    16,
+    "L’energia della tua azienda."
+  ],
+  [
+    17,
+    "Gestita da"
+  ],
+  [
+    18,
+    "un’unica piattaforma."
+  ],
+  [
+    19,
+    "Operion OS è una soluzione software per imprese con generazione fotovoltaica, sistemi di accumulo e una gestione complessa dei dati energetici. Un’unica interfaccia per bilancio energetico, programmazione degli asset, regole di controllo e risultati economici."
+  ],
+  [
+    20,
+    "Trova una soluzione per la tua azienda"
+  ],
+  [
+    21,
+    "Scopri la piattaforma ↓"
+  ],
+  [
+    22,
+    "MONITORAGGIO ENERGETICO"
+  ],
+  [
+    23,
+    "OTTIMIZZAZIONE FV + BESS"
+  ],
+  [
+    24,
+    "REGOLE DI CONTROLLO"
+  ],
+  [
+    25,
+    "CONCEPT DI SISTEMA ENERGETICO · ILLUSTRAZIONE GENERATA"
+  ],
+  [
+    26,
+    "OPERION OS / AMBIENTE ENERGETICO"
+  ],
+  [
+    27,
+    "DEMO INTERATTIVA · NON SONO DATI DI CLIENTI"
+  ],
+  [
+    29,
+    "SISTEMA DI GESTIONE DELL’ENERGIA"
+  ],
+  [
+    30,
+    "DASHBOARD PRINCIPALE"
+  ],
+  [
+    31,
+    "Dashboard cliente"
+  ],
+  [
+    32,
+    "PIATTAFORMA OPERION OS"
+  ],
+  [
+    33,
+    "Catalogo dei moduli"
+  ],
+  [
+    34,
+    "Diagnostica delle integrazioni"
+  ],
+  [
+    35,
+    "DATI E MONITORAGGIO"
+  ],
+  [
+    36,
+    "Monitoraggio energetico"
+  ],
+  [
+    37,
+    "Registro dello scenario"
+  ],
+  [
+    38,
+    "Scenari e analisi"
+  ],
+  [
+    39,
+    "Riserva e vincoli"
+  ],
+  [
+    40,
+    "OTTIMIZZAZIONE"
+  ],
+  [
+    41,
+    "Piano giornaliero degli asset"
+  ],
+  [
+    42,
+    "Regole di controllo"
+  ],
+  [
+    43,
+    "Interfaccia Operion OS"
+  ],
+  [
+    44,
+    "Dimostrazione concettuale"
+  ],
+  [
+    45,
+    "Nessun collegamento agli impianti"
+  ],
+  [
+    46,
+    "Sito dimostrativo"
+  ],
+  [
+    47,
+    "Sito industriale"
+  ],
+  [
+    48,
+    "Sito logistico"
+  ],
+  [
+    49,
+    "Portafoglio · 2 siti"
+  ],
+  [
+    50,
+    "Demo"
+  ],
+  [
+    51,
+    "Raccomandazioni"
+  ],
+  [
+    52,
+    "Visualizza il registro dello scenario dimostrativo"
+  ],
+  [
+    53,
+    "Profilo dimostrativo"
+  ],
+  [
+    54,
+    "SITO / 01"
+  ],
+  [
+    55,
+    "Bilancio energetico"
+  ],
+  [
+    56,
+    "MODALITÀ DEMO"
+  ],
+  [
+    57,
+    "Generazione fotovoltaica"
+  ],
+  [
+    58,
+    "kW"
+  ],
+  [
+    59,
+    "Consumo del sito"
+  ],
+  [
+    60,
+    "Acquisto dalla rete"
+  ],
+  [
+    61,
+    "Stato di carica del BESS"
+  ],
+  [
+    62,
+    "Riserva concordata: 20%"
+  ],
+  [
+    63,
+    "Flussi di energia"
+  ],
+  [
+    64,
+    "12:00 / GIORNO"
+  ],
+  [
+    65,
+    "Sistema energetico gestito con Operion OS"
+  ],
+  [
+    66,
+    "Il fotovoltaico genera 240 kW: il sito ne consuma 180 e 60 caricano la batteria. Acquisto dalla rete: 0 kW."
+  ],
+  [
+    67,
+    "IMPIANTO FOTOVOLTAICO"
+  ],
+  [
+    68,
+    "240 kW"
+  ],
+  [
+    69,
+    "AZIENDA"
+  ],
+  [
+    70,
+    "180 kW"
+  ],
+  [
+    71,
+    "RETE"
+  ],
+  [
+    72,
+    "0 kW"
+  ],
+  [
+    73,
+    "ACCUMULO"
+  ],
+  [
+    74,
+    "Carica: 60 kW"
+  ],
+  [
+    75,
+    "Fase della giornata dimostrativa"
+  ],
+  [
+    76,
+    "01 / Notte"
+  ],
+  [
+    77,
+    "02 / Giorno"
+  ],
+  [
+    78,
+    "03 / Picco"
+  ],
+  [
+    79,
+    "Avvia il cambio automatico degli scenari"
+  ],
+  [
+    80,
+    "▶ Riproduzione automatica"
+  ],
+  [
+    81,
+    "LOGICA DELLO SCENARIO"
+  ],
+  [
+    82,
+    "GENERAZIONE PROPRIA"
+  ],
+  [
+    83,
+    "Sfruttare il sole."
+  ],
+  [
+    84,
+    "Accumulare l’eccedenza."
+  ],
+  [
+    85,
+    "La generazione supera la domanda attuale. L’eccedenza viene destinata alla carica del BESS."
+  ],
+  [
+    86,
+    "SoC minimo"
+  ],
+  [
+    87,
+    "Riserva di autonomia concordata"
+  ],
+  [
+    88,
+    "Esplora il piano ora per ora ↗"
+  ],
+  [
+    89,
+    "REGISTRO DIMOSTRATIVO"
+  ],
+  [
+    90,
+    "Eccedenza FV → carica del BESS"
+  ],
+  [
+    91,
+    "La voce cambia con lo scenario. Non è un registro di impianti reali."
+  ],
+  [
+    92,
+    "Modalità:"
+  ],
+  [
+    93,
+    "raccomandazioni"
+  ],
+  [
+    94,
+    "Bilancio: 240 = 180 + 60 kW"
+  ],
+  [
+    95,
+    "Non vengono inviati comandi agli impianti"
+  ],
+  [
+    96,
+    "Dalle letture degli impianti a una decisione chiara."
+  ],
+  [
+    97,
+    "Analisi → pianificazione → controllo → risultato"
+  ],
+  [
+    98,
+    "01 / VISIBILITÀ"
+  ],
+  [
+    99,
+    "Dati da ogni punto di misura"
+  ],
+  [
+    100,
+    "02 / ECONOMIA"
+  ],
+  [
+    101,
+    "Decisioni basate su criteri economici"
+  ],
+  [
+    102,
+    "03 / CONTROLLO"
+  ],
+  [
+    103,
+    "Le tue regole e i tuoi vincoli"
+  ],
+  [
+    104,
+    "PER IL TUO SETTORE"
+  ],
+  [
+    105,
+    "Oltre l’energia."
+  ],
+  [
+    106,
+    "Le esigenze della tua azienda."
+  ],
+  [
+    107,
+    "Seleziona il settore per scoprire quale esigenza operativa affronta la piattaforma e da dove iniziare la valutazione."
+  ],
+  [
+    108,
+    "SELEZIONA IL SETTORE"
+  ],
+  [
+    109,
+    "Scorri e seleziona"
+  ],
+  [
+    110,
+    "Settore di attività"
+  ],
+  [
+    111,
+    "PROFILO DI DOMANDA"
+  ],
+  [
+    112,
+    "Industria"
+  ],
+  [
+    113,
+    "Stabilimenti, fabbriche e reparti"
+  ],
+  [
+    114,
+    "CONSUMO CRITICO"
+  ],
+  [
+    115,
+    "Magazzini e catena del freddo"
+  ],
+  [
+    116,
+    "Logistica e complessi frigoriferi"
+  ],
+  [
+    117,
+    "GENERAZIONE STAGIONALE"
+  ],
+  [
+    118,
+    "Agroindustria"
+  ],
+  [
+    119,
+    "Silos, aziende agricole e trasformazione"
+  ],
+  [
+    120,
+    "DOMANDA SERALE"
+  ],
+  [
+    121,
+    "Commercio e centri commerciali"
+  ],
+  [
+    122,
+    "Negozi, supermercati e centri commerciali"
+  ],
+  [
+    123,
+    "BILANCIO DELL’EDIFICIO"
+  ],
+  [
+    124,
+    "Immobili commerciali"
+  ],
+  [
+    125,
+    "Uffici, hotel e complessi"
+  ],
+  [
+    126,
+    "CONTESTO CONDIVISO"
+  ],
+  [
+    127,
+    "Reti e gruppi di siti"
+  ],
+  [
+    128,
+    "Più sedi e punti di misura"
+  ],
+  [
+    129,
+    "Illustrazioni generate di scenari aziendali. Le animazioni spiegano il concetto, non mostrano misure di impianti reali."
+  ],
+  [
+    130,
+    "PER CHI NEL TEAM"
+  ],
+  [
+    131,
+    "COSA OFFRE LA PIATTAFORMA"
+  ],
+  [
+    132,
+    "LO SCENARIO DA VALUTARE"
+  ],
+  [
+    133,
+    "COSA OCCORRE VERIFICARE"
+  ],
+  [
+    134,
+    "Parliamo di questo sito ↗"
+  ],
+  [
+    135,
+    "Quando ha senso iniziare?"
+  ],
+  [
+    136,
+    "Hai un impianto fotovoltaico, un accumulo o più punti di misura, ma le decisioni energetiche vengono ancora prese manualmente. Per ottimizzare servono dati utilizzabili, accesso tecnico e tariffe che rendano lo scenario economicamente sostenibile. Per un ufficio con un solo contatore e senza asset controllabili può bastare una soluzione più semplice."
+  ],
+  [
+    137,
+    "01 / FLUSSO OPERATIVO"
+  ],
+  [
+    138,
+    "Gli impianti ci sono già."
+  ],
+  [
+    139,
+    "Aggiungi un sistema per decidere."
+  ],
+  [
+    140,
+    "Il fotovoltaico genera. Il BESS accumula. Il contatore misura."
+  ],
+  [
+    141,
+    "Operion OS aiuta a coordinarne il funzionamento."
+  ],
+  [
+    142,
+    "Dalle singole letture a un contesto condiviso per energy manager, ingegneri e direzione. Dati, piano e verifica dell’esecuzione in un unico flusso."
+  ],
+  [
+    143,
+    "Come funziona la piattaforma: raccolta dati, contesto, piano d’azione e controllo"
+  ],
+  [
+    144,
+    "DATI"
+  ],
+  [
+    145,
+    "Raccogliere le misure"
+  ],
+  [
+    146,
+    "Contatori, inverter e BMS: fonti di dati concordate per il sito."
+  ],
+  [
+    147,
+    "MISURE / GENERAZIONE / STATO"
+  ],
+  [
+    148,
+    "CONTESTO"
+  ],
+  [
+    149,
+    "FV"
+  ],
+  [
+    151,
+    "Visualizzare il bilancio"
+  ],
+  [
+    152,
+    "Confrontare generazione e consumo con le condizioni dell’azienda."
+  ],
+  [
+    153,
+    "DOMANDA / TARIFFA / LIMITI"
+  ],
+  [
+    154,
+    "PIANO"
+  ],
+  [
+    155,
+    "NOTTE"
+  ],
+  [
+    156,
+    "GIORNO"
+  ],
+  [
+    157,
+    "PICCO"
+  ],
+  [
+    158,
+    "Preparare un piano d’azione"
+  ],
+  [
+    159,
+    "Scegliere uno scenario praticabile di carica, scarica e autoconsumo."
+  ],
+  [
+    160,
+    "PREVISIONE / SCENARIO / PROGRAMMA"
+  ],
+  [
+    161,
+    "CONTROLLO"
+  ],
+  [
+    162,
+    "RISERVA"
+  ],
+  [
+    163,
+    "LIMITI"
+  ],
+  [
+    164,
+    "Mantenere il controllo operativo"
+  ],
+  [
+    165,
+    "Verificare l’esecuzione entro la modalità operativa e la riserva concordate."
+  ],
+  [
+    166,
+    "REGOLE / PREVISTO E REALE / SCOSTAMENTI"
+  ],
+  [
+    167,
+    "Illustrazione del flusso di lavoro. Fonti di dati e comandi disponibili vengono verificati per ogni sito."
+  ],
+  [
+    168,
+    "MODULO / 01"
+  ],
+  [
+    169,
+    "Vedere il quadro completo"
+  ],
+  [
+    170,
+    "Monitoraggio di consumi e generazione: punti di misura, storico delle letture e bilancio energetico del sito."
+  ],
+  [
+    171,
+    "Dati da contatori e inverter"
+  ],
+  [
+    172,
+    "Consumi per punto di alimentazione e periodo"
+  ],
+  [
+    173,
+    "Controllo degli scostamenti e report"
+  ],
+  [
+    174,
+    "DALLE MISURE AI DATI CONDIVISI"
+  ],
+  [
+    175,
+    "MODULO / 02"
+  ],
+  [
+    176,
+    "Operare secondo un piano concordato"
+  ],
+  [
+    177,
+    "Un programma coordinato di generazione, carica e scarica che considera prezzi, limiti tecnici e riserva."
+  ],
+  [
+    178,
+    "Programmazione dell’accumulo"
+  ],
+  [
+    179,
+    "Raccomandazioni o esecuzione dei comandi"
+  ],
+  [
+    180,
+    "Analisi dei risultati e degli scostamenti"
+  ],
+  [
+    181,
+    "DALLA PROGRAMMAZIONE MANUALE A UNO SCENARIO COORDINATO"
+  ],
+  [
+    182,
+    "PER TUTTO IL TEAM"
+  ],
+  [
+    183,
+    "Una piattaforma."
+  ],
+  [
+    184,
+    "Tre prospettive operative."
+  ],
+  [
+    185,
+    "Dati condivisi, compiti diversi. Ogni ruolo dispone del contesto necessario per decidere."
+  ],
+  [
+    186,
+    "Per l’energy manager"
+  ],
+  [
+    187,
+    "Un piano che rispetta"
+  ],
+  [
+    188,
+    "il funzionamento del sito."
+  ],
+  [
+    189,
+    "Bilancio di generazione e consumo."
+  ],
+  [
+    190,
+    "Programma concordato degli asset."
+  ],
+  [
+    191,
+    "GENERAZIONE / CONSUMO"
+  ],
+  [
+    192,
+    "PIANO GIORNALIERO CONCORDATO"
+  ],
+  [
+    193,
+    "Per gli ingegneri"
+  ],
+  [
+    194,
+    "Capire lo stato."
+  ],
+  [
+    195,
+    "Controllare i limiti."
+  ],
+  [
+    196,
+    "Stato degli asset e disponibilità dei dati."
+  ]
+]
